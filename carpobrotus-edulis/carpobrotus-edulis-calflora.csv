@@ -1,0 +1,996 @@
+"ID","High_Plant","Herbarium","Observation Date","Taxon","Observer","Source","Date","County","lat","lng","Location Description"
+"xr349659","1+",,"2009-10-30","Carpobrotus edulis","Daniel Gluesenkamp","Dan Gluesenkamp: Bay Area Early Detection Network","2009-10-30","Marin","38.214717","-122.927268",
+"xr349658","1+",,"2009-10-30","Carpobrotus edulis","Daniel Gluesenkamp","Dan Gluesenkamp: Bay Area Early Detection Network","2009-10-30","Marin","38.216085","-122.926326",
+"in:618446","1+",,"2014-04-10","Carpobrotus edulis","JK Johnson","iNaturalist","2014-04-10","San Francisco","37.78984","-122.458133",
+"xr355534","1+",,"2009-07-01","Carpobrotus edulis","Erin Mcdermott","SFPUC; Nomad Ecology; BAEDN","2009-07-01","San Mateo","37.580162","-122.4234725",
+"xr355240","1+",,"2009-07-01","Carpobrotus edulis","Brett Stevenson","SFPUC; Nomad Ecology; BAEDN","2009-07-01","San Mateo","37.5858095","-122.4100758",
+"xr354975","1+",,"2009-07-01","Carpobrotus edulis","Erin Mcdermott","SFPUC; Nomad Ecology; BAEDN","2009-07-01","San Mateo","37.5864447","-122.4107498",
+"mcp4939",,,"2014-04-04","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-04-04","Marin","37.91296689","-122.68101503",
+"gx21400",,,"2014-11-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-04","Marin","37.824974499999996","-122.52712783333334","slope above camp bicentennial"
+"gx11598","0",,"2006-12-31","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2006-12-31","Marin","37.824585000000006","-122.52977333333335","east of point bonita ymca on terrace of battery wallace"
+"gx18755",,,"2009-01-26","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2009-01-26","San Francisco","37.81877666666667","-122.53024166666667","LIGHTHOUSE TRAIL"
+"gx1791",,,"2006-09-28","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-09-28","Marin","37.83397","-122.53421",
+"mcp4507","0",,"2013-05-18","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-05-18","Marin","37.91187599","-122.68078253",
+"mcp4509","0",,"2013-06-07","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-06-07","Marin","37.91117797","-122.68276052",
+"xr347186","1+",,"2004-03-02","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2004-03-02","Marin","37.99631193","-123.0194871",
+"xr347187","1+",,"2004-03-02","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2004-03-02","Marin","37.99643846","-123.017232",
+"xr347188","1+",,"2007-03-22","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2007-03-22","Marin","37.996502","-123.0138494",
+"xr347189","1+",,"2007-03-15","Carpobrotus edulis","Eric Richardson","PORE Vegetation Management; SFAN; BAEDN","2007-03-15","Marin","37.996502","-123.0138494",
+"xr347190","1+",,"2003-09-25","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-09-25","Marin","37.996502","-123.0138494",
+"xr347194","1+",,"2003-10-01","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-10-01","Marin","37.996502","-123.0138494",
+"xr347195","1+",,"2003-10-02","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-10-02","Marin","37.996502","-123.0138494",
+"xr347196","1+",,"2003-10-03","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-10-03","Marin","37.996502","-123.0138494",
+"xr347197","1+",,"2003-10-06","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-10-06","Marin","37.996502","-123.0138494",
+"xr347198","1+",,"2003-10-07","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-10-07","Marin","37.996502","-123.0138494",
+"xr347199","1+",,"2004-03-02","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2004-03-02","Marin","37.996502","-123.0138494",
+"xr347200","1+",,"2005-06-04","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2005-06-04","Marin","37.996502","-123.0138494",
+"xr347201","1+",,"2007-07-07","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2007-07-07","Marin","37.996502","-123.0138494",
+"xr347202","1+",,"2006-03-09","Carpobrotus edulis","Kerry Cutler","PORE Vegetation Management; SFAN; BAEDN","2006-03-09","Marin","37.996502","-123.0138494",
+"xr347203","1+",,"2006-03-09","Carpobrotus edulis","Kerry Cutler","PORE Vegetation Management; SFAN; BAEDN","2006-03-09","Marin","37.996502","-123.0138494",
+"xr347204","1+",,"2006-03-14","Carpobrotus edulis","Kerry Cutler","PORE Vegetation Management; SFAN; BAEDN","2006-03-14","Marin","37.996502","-123.0138494",
+"xr347205","1+",,"2006-05-07","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2006-05-07","Marin","37.996502","-123.0138494",
+"xr347206","1+",,"2006-06-03","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2006-06-03","Marin","37.996502","-123.0138494",
+"xr347207","1+",,"2007-03-10","Carpobrotus edulis","Eric Richardson","PORE Vegetation Management; SFAN; BAEDN","2007-03-10","Marin","37.996502","-123.0138494",
+"xr347208","1+",,"2007-09-18","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2007-09-18","Marin","37.996502","-123.0138494",
+"xr347209","1+",,"2008-05-05","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-05-05","Marin","37.996502","-123.0138494",
+"xr347210","1+",,"2008-06-23","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-06-23","Marin","37.996502","-123.0138494",
+"xr347211","1+",,"2008-11-06","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-11-06","Marin","37.996502","-123.0138494",
+"xr347212","1+",,"2008-11-10","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-11-10","Marin","37.996502","-123.0138494",
+"xr347213","1+",,"2008-11-17","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-11-17","Marin","37.996502","-123.0138494",
+"xr347214","1+",,"2008-11-19","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-11-19","Marin","37.996502","-123.0138494",
+"xr347215","1+",,"2008-12-01","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-12-01","Marin","37.996502","-123.0138494",
+"xr347216","1+",,"2008-07-08","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-07-08","Marin","37.996502","-123.0138494",
+"xr347217","1+",,"2008-07-31","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-07-31","Marin","37.996502","-123.0138494",
+"xr347218","1+",,"2008-07-29","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-07-29","Marin","37.996502","-123.0138494",
+"xr347219","1+",,"2008-09-18","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-09-18","Marin","37.996502","-123.0138494",
+"xr347220","1+",,"2007-05-05","Carpobrotus edulis","Malia Laber","PORE Vegetation Management; SFAN; BAEDN","2007-05-05","Marin","37.99688089","-123.0105238",
+"xr347221","1+",,"2003-05-07","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2003-05-07","Marin","37.99688089","-123.0105238",
+"xr347222","1+",,"2003-07-16","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-07-16","Marin","37.99688089","-123.0105238",
+"xr347223","1+",,"2003-08-18","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-08-18","Marin","37.99688089","-123.0105238",
+"xr347224","1+",,"2006-02-02","Carpobrotus edulis","Kerry Cutler","PORE Vegetation Management; SFAN; BAEDN","2006-02-02","Marin","37.99688089","-123.0105238",
+"xr347225","1+",,"2007-03-06","Carpobrotus edulis","Eric Richardson","PORE Vegetation Management; SFAN; BAEDN","2007-03-06","Marin","37.99688089","-123.0105238",
+"xr347226","1+",,"2007-06-25","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2007-06-25","Marin","37.99688089","-123.0105238",
+"xr347238","1+",,"2003-10-20","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-10-20","Marin","37.99732104","-123.0214008",
+"xr347240","1+",,"2001-06-22","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-06-22","Marin","37.99732233","-123.0124373",
+"xr347241","1+",,"2001-07-30","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-07-30","Marin","37.99732233","-123.0124373",
+"xr347242","1+",,"2002-05-04","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2002-05-04","Marin","37.99732233","-123.0124373",
+"xr347243","1+",,"2001-09-22","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-09-22","Marin","37.99732233","-123.0124373",
+"xr347244","1+",,"2003-11-11","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2003-11-11","Marin","37.99752003","-123.0170842",
+"xr347246","1+",,"2004-03-06","Carpobrotus edulis","Jon O'Brien","PORE Vegetation Management; SFAN; BAEDN","2004-03-06","Marin","37.99752003","-123.0170842",
+"xr347247","1+",,"2009-02-10","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-02-10","Marin","37.99752003","-123.0170842",
+"xr347248","1+",,"2009-03-16","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-03-16","Marin","37.99752003","-123.0170842",
+"xr347250","1+",,"2003-07-16","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-07-16","Marin","37.99753761","-123.0199202",
+"xr347251","1+",,"2003-10-22","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-10-22","Marin","37.99753761","-123.0199202",
+"xr347252","1+",,"2003-10-23","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-10-23","Marin","37.99753761","-123.0199202",
+"xr347253","1+",,"2003-10-28","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2003-10-28","Marin","37.99753761","-123.0199202",
+"xr347254","1+",,"2003-10-29","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2003-10-29","Marin","37.99753761","-123.0199202",
+"xr347255","1+",,"2003-11-04","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2003-11-04","Marin","37.99753761","-123.0199202",
+"xr347256","1+",,"2003-11-05","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2003-11-05","Marin","37.99753761","-123.0199202",
+"xr347257","1+",,"2003-11-10","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2003-11-10","Marin","37.99753761","-123.0199202",
+"xr347259","1+",,"2004-03-06","Carpobrotus edulis","Jon O'Brien","PORE Vegetation Management; SFAN; BAEDN","2004-03-06","Marin","37.99753761","-123.0199202",
+"xr347260","1+",,"2004-03-06","Carpobrotus edulis","Jon O'Brien","PORE Vegetation Management; SFAN; BAEDN","2004-03-06","Marin","37.99753761","-123.0199202",
+"xr347261","1+",,"2004-09-19","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-19","Marin","37.99753761","-123.0199202",
+"xr347269","1+",,"2008-09-29","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-09-29","Marin","37.99774625","-123.0090661",
+"xr347270","1+",,"2008-09-30","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-09-30","Marin","37.99774625","-123.0090661",
+"xr347271","1+",,"2008-10-01","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-01","Marin","37.99774625","-123.0090661",
+"xr347272","1+",,"2008-10-02","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-02","Marin","37.99774625","-123.0090661",
+"xr347273","1+",,"2008-10-03","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-03","Marin","37.99774625","-123.0090661",
+"xr347274","1+",,"2008-05-29","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-05-29","Marin","37.99774625","-123.0090661",
+"xr347275","1+",,"2008-10-03","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-03","Marin","37.99798981","-123.0055353",
+"xr347276","1+",,"2002-11-13","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2002-11-13","Marin","37.99809724","-123.0142028",
+"xr347277","1+",,"2004-03-18","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2004-03-18","Marin","37.99809724","-123.0142028",
+"xr347278","1+",,"2004-03-06","Carpobrotus edulis","Jon O'Brien","PORE Vegetation Management; SFAN; BAEDN","2004-03-06","Marin","37.99809724","-123.0142028",
+"xr347279","1+",,"2004-08-31","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-08-31","Marin","37.99809724","-123.0142028",
+"xr347280","1+",,"2004-09-01","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-01","Marin","37.99809724","-123.0142028",
+"xr347281","1+",,"2004-09-02","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-02","Marin","37.99809724","-123.0142028",
+"xr347282","1+",,"2004-09-03","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-03","Marin","37.99809724","-123.0142028",
+"xr347283","1+",,"2004-09-07","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-07","Marin","37.99809724","-123.0142028",
+"xr347284","1+",,"2004-09-08","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-08","Marin","37.99809724","-123.0142028",
+"xr347285","1+",,"2004-09-09","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-09","Marin","37.99809724","-123.0142028",
+"xr347286","1+",,"2004-09-10","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-10","Marin","37.99809724","-123.0142028",
+"xr347287","1+",,"2004-09-15","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-15","Marin","37.99809724","-123.0142028",
+"xr347288","1+",,"2004-09-19","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-19","Marin","37.99809724","-123.0142028",
+"xr347289","1+",,"2006-03-23","Carpobrotus edulis","Kerry Cutler","PORE Vegetation Management; SFAN; BAEDN","2006-03-23","Marin","37.99809724","-123.0142028",
+"xr347290","1+",,"2006-04-19","Carpobrotus edulis","Kerry Cutler","PORE Vegetation Management; SFAN; BAEDN","2006-04-19","Marin","37.99809724","-123.0142028",
+"xr347291","1+",,"2007-02-28","Carpobrotus edulis","Eric Richardson","PORE Vegetation Management; SFAN; BAEDN","2007-02-28","Marin","37.99809724","-123.0142028",
+"xr347292","1+",,"2007-03-02","Carpobrotus edulis","Eric Richardson","PORE Vegetation Management; SFAN; BAEDN","2007-03-02","Marin","37.99809724","-123.0142028",
+"xr347293","1+",,"2008-12-14","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-12-14","Marin","37.99809724","-123.0142028",
+"xr347294","1+",,"2008-05-29","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-05-29","Marin","37.99809724","-123.0142028",
+"xr347295","1+",,"2008-10-16","Carpobrotus edulis","Michelle Krieg","PORE Vegetation Management; SFAN; BAEDN","2008-10-16","Marin","37.99809724","-123.0142028",
+"xr347296","1+",,"2008-10-16","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-16","Marin","37.99809724","-123.0142028",
+"xr347297","1+",,"2008-12-17","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-12-17","Marin","37.99809724","-123.0142028",
+"xr347298","1+",,"2009-01-16","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-01-16","Marin","37.99809724","-123.0142028",
+"xr347299","1+",,"2009-02-27","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-02-27","Marin","37.99809724","-123.0142028",
+"xr347300","1+",,"2009-02-12","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-02-12","Marin","37.99809724","-123.0142028",
+"xr347301","1+",,"2009-03-16","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-03-16","Marin","37.99809724","-123.0142028",
+"xr347302","1+",,"2003-08-19","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-08-19","Marin","37.99889959","-123.0124489",
+"xr347304","1+",,"2006-04-20","Carpobrotus edulis","Kerry Cutler","PORE Vegetation Management; SFAN; BAEDN","2006-04-20","Marin","37.99889959","-123.0124489",
+"xr347305","1+",,"2008-10-15","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-15","Marin","37.99889959","-123.0124489",
+"xr347306","1+",,"2009-01-28","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-01-28","Marin","37.99889959","-123.0124489",
+"xr347307","1+",,"2008-10-03","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-03","Marin","37.99897214","-123.0070275",
+"xr347310","1+",,"2009-03-05","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-03-05","Marin","37.99897214","-123.0070275",
+"xr347311","1+",,"2002-05-31","Carpobrotus edulis","Patrick McIntyre","PORE Vegetation Management; SFAN; BAEDN","2002-05-31","Marin","37.99907099","-123.0108772",
+"xr347312","1+",,"2003-10-15","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2003-10-15","Marin","37.99907099","-123.0108772",
+"xr347313","1+",,"2005-10-12","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2005-10-12","Marin","37.99907099","-123.0108772",
+"xr347314","1+",,"2004-09-22","Carpobrotus edulis","Ben Peterson","PORE Vegetation Management; SFAN; BAEDN","2004-09-22","Marin","37.99907099","-123.0108772",
+"xr347315","1+",,"2006-01-25","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2006-01-25","Marin","37.99907099","-123.0108772",
+"xr347316","1+",,"2001-10-06","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-10-06","Marin","37.99910696","-123.0117656",
+"xr347317","1+",,"2001-09-30","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-09-30","Marin","37.99910696","-123.0117656",
+"xr347318","1+",,"2008-03-20","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-03-20","Marin","37.99910696","-123.0117656",
+"xr347319","1+",,"2008-10-03","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-03","Marin","37.99955788","-123.0084854",
+"xr347320","1+",,"2008-10-07","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-07","Marin","37.99955788","-123.0084854",
+"xr347321","1+",,"2008-10-08","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-08","Marin","37.99955788","-123.0084854",
+"xr347322","1+",,"2008-06-26","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-06-26","Marin","37.99955788","-123.0084854",
+"xr347323","1+",,"2008-07-16","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-07-16","Marin","37.99955788","-123.0084854",
+"xr347324","1+",,"2008-07-22","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-07-22","Marin","37.99955788","-123.0084854",
+"xr347325","1+",,"2008-10-09","Carpobrotus edulis","Michelle Krieg","PORE Vegetation Management; SFAN; BAEDN","2008-10-09","Marin","37.99955788","-123.0084854",
+"xr347326","1+",,"2008-10-14","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-14","Marin","37.99955788","-123.0084854",
+"xr347329","1+",,"2008-06-10","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-06-10","Marin","37.99964775","-123.0116062",
+"xr347335","1+",,"2009-01-22","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-01-22","Marin","37.9998194","-123.0061391",
+"xr347337","1+",,"2008-06-05","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-06-05","Marin","38.00011655","-123.0102053",
+"xr347345","1+",,"2008-10-14","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-14","Marin","38.00105403","-123.0084058",
+"xr347346","1+",,"2008-10-08","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-08","Marin","38.00154063","-123.0097158",
+"xr347348","1+",,"2008-06-06","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-06-06","Marin","38.00154072","-123.0084515",
+"xr347349","1+",,"2008-07-02","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-07-02","Marin","38.00154072","-123.0084515",
+"xr347350","1+",,"2008-07-16","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-07-16","Marin","38.00154072","-123.0084515",
+"xr347351","1+",,"2008-10-10","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-10","Marin","38.00154072","-123.0084515",
+"xr347352","1+",,"2008-10-13","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-13","Marin","38.00154072","-123.0084515",
+"xr347353","1+",,"2008-10-14","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-14","Marin","38.00154072","-123.0084515",
+"xr347354","1+",,"2009-03-05","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-03-05","Marin","38.00154072","-123.0084515",
+"xr347355","1+",,"2008-10-09","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-09","Marin","38.00179288","-123.010889",
+"xr347356","1+",,"2009-01-21","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2009-01-21","Marin","38.00269444","-123.0075518",
+"xr347357","1+",,"2008-10-16","Carpobrotus edulis","Dylan Voeller","PORE Vegetation Management; SFAN; BAEDN","2008-10-16","Marin","38.00269444","-123.0075518",
+"xr347372","1+",,"2001-07-16","Carpobrotus edulis","staff","PORE Vegetation Management; SFAN; BAEDN","2001-07-16","Marin","38.01538476","-123.003862",
+"xr347373","1+",,"2001-10-03","Carpobrotus edulis","John Holloway","PORE Vegetation Management; SFAN; BAEDN","2001-10-03","Marin","38.01538476","-123.003862",
+"xr347374","1+",,"2001-10-17","Carpobrotus edulis","John Holloway","PORE Vegetation Management; SFAN; BAEDN","2001-10-17","Marin","38.01538476","-123.003862",
+"xr347375","1+",,"2007-10-21","Carpobrotus edulis","John Holloway","PORE Vegetation Management; SFAN; BAEDN","2007-10-21","Marin","38.01538476","-123.003862",
+"xr347376","1+",,"2008-09-28","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-09-28","Marin","38.01538476","-123.003862",
+"xr347411","1+",,"2001-07-27","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-07-27","Marin","38.02195412","-122.8688066",
+"xr347412","1+",,"2002-02-11","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2002-02-11","Marin","38.02195412","-122.8688066",
+"xr347414","1+",,"2008-05-19","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-05-19","Marin","38.02195412","-122.8688066",
+"xr347416","1+",,"2002-01-17","Carpobrotus edulis","staff","PORE Vegetation Management; SFAN; BAEDN","2002-01-17","Marin","38.02513841","-122.8798073",
+"xr347417","1+",,"2001-04-26","Carpobrotus edulis","staff","PORE Vegetation Management; SFAN; BAEDN","2001-04-26","Marin","38.02513841","-122.8798073",
+"xr347418","1+",,"2001-08-19","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-08-19","Marin","38.02513841","-122.8798073",
+"xr347419","1+",,"2002-02-03","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2002-02-03","Marin","38.02513841","-122.8798073",
+"xr347420","1+",,"2001-08-02","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-08-02","Marin","38.02513841","-122.8798073",
+"xr347421","1+",,"2001-12-09","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-12-09","Marin","38.02513841","-122.8798073",
+"xr347422","1+",,"2001-12-02","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-12-02","Marin","38.02513841","-122.8798073",
+"xr347423","1+",,"2001-11-04","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-11-04","Marin","38.02513841","-122.8798073",
+"xr347424","1+",,"2001-10-26","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2001-10-26","Marin","38.02513841","-122.8798073",
+"xr347425","1+",,"2004-11-19","Carpobrotus edulis","Mark Rogers","PORE Vegetation Management; SFAN; BAEDN","2004-11-19","Marin","38.02513841","-122.8798073",
+"xr347426","1+",,"2007-07-27","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2007-07-27","Marin","38.02513841","-122.8798073",
+"xr347427","1+",,"2007-07-23","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2007-07-23","Marin","38.02513841","-122.8798073",
+"xr347428","1+",,"2007-06-28","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2007-06-28","Marin","38.02513841","-122.8798073",
+"xr347429","1+",,"2005-11-08","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2005-11-08","Marin","38.02513841","-122.8798073",
+"xr347430","1+",,"2006-06-25","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2006-06-25","Marin","38.02513841","-122.8798073",
+"xr347431","1+",,"2008-04-24","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-04-24","Marin","38.02513841","-122.8798073",
+"xr347432","1+",,"2008-06-03","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-06-03","Marin","38.02513841","-122.8798073",
+"xr347433","1+",,"2008-05-22","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-05-22","Marin","38.02513841","-122.8798073",
+"xr347434","1+",,"2006-10-31","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2006-10-31","Marin","38.02513841","-122.8798073",
+"xr347435","1+",,"2006-11-15","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2006-11-15","Marin","38.02513841","-122.8798073",
+"xr347436","1+",,"2006-11-17","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2006-11-17","Marin","38.02513841","-122.8798073",
+"xr347437","1+",,"2007-03-08","Carpobrotus edulis","Eric Richardson","PORE Vegetation Management; SFAN; BAEDN","2007-03-08","Marin","38.02513841","-122.8798073",
+"xr347438","1+",,"2007-03-12","Carpobrotus edulis","Eric Richardson","PORE Vegetation Management; SFAN; BAEDN","2007-03-12","Marin","38.02513841","-122.8798073",
+"xr347439","1+",,"2001-09-15","Carpobrotus edulis","Naida Twardzicki","PORE Vegetation Management; SFAN; BAEDN","2001-09-15","Marin","38.02513841","-122.8798073",
+"xr347440","1+",,"2007-05-29","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2007-05-29","Marin","38.02513841","-122.8798073",
+"xr347441","1+",,"2007-06-27","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2007-06-27","Marin","38.02513841","-122.8798073",
+"xr347442","1+",,"2007-10-04","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2007-10-04","Marin","38.02513841","-122.8798073",
+"xr347443","1+",,"2007-12-06","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2007-12-06","Marin","38.02513841","-122.8798073",
+"xr347444","1+",,"2008-01-29","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-01-29","Marin","38.02513841","-122.8798073",
+"xr347445","1+",,"2008-02-27","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-02-27","Marin","38.02513841","-122.8798073",
+"xr347446","1+",,"2008-08-05","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-08-05","Marin","38.02513841","-122.8798073",
+"xr347447","1+",,"2008-07-22","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-07-22","Marin","38.02513841","-122.8798073",
+"xr347448","1+",,"2008-07-14","Carpobrotus edulis","Ellen Hamingson","PORE Vegetation Management; SFAN; BAEDN","2008-07-14","Marin","38.02513841","-122.8798073",
+"xr347461","1+",,"2002-10-17","Carpobrotus edulis","Tom Echols","PORE Vegetation Management; SFAN; BAEDN","2002-10-17","Marin","38.02907389","-122.87677",
+"xr347475","1+",,"2005-12-02","Carpobrotus edulis","Jim Bromberg","PORE Vegetation Management; SFAN; BAEDN","2005-12-02","Marin","38.03124611","-122.9506608",
+"xr347476","1+",,"2006-12-16","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2006-12-16","Marin","38.03124611","-122.9506608",
+"xr347561","1+",,"2006-03-13","Carpobrotus edulis","Kerry Cutler","PORE Vegetation Management; SFAN; BAEDN","2006-03-13","Marin","38.04786611","-122.983565",
+"xr347742","1+",,"2005-06-05","Carpobrotus edulis","Mark Rogers","PORE Vegetation Management; SFAN; BAEDN","2005-06-05","Marin","38.07401957","-122.9746434",
+"xr347744","1+",,"2005-07-12","Carpobrotus edulis","Mark Rogers","PORE Vegetation Management; SFAN; BAEDN","2005-07-12","Marin","38.07401957","-122.9746434",
+"xr347745","1+",,"2005-08-01","Carpobrotus edulis","Mark Rogers","PORE Vegetation Management; SFAN; BAEDN","2005-08-01","Marin","38.07401957","-122.9746434",
+"xr347887","1+",,"2006-01-25","Carpobrotus edulis","Cassandra Liu","PORE Vegetation Management; SFAN; BAEDN","2006-01-25","Marin","38.09533444","-122.9466947",
+"xr348212","1+",,"2001-09-06","Carpobrotus edulis","staff","PORE Vegetation Management; SFAN; BAEDN","2001-09-06","Marin","38.15391167","-122.9087356",
+"xr348254","1+",,"2001-09-06","Carpobrotus edulis","staff","PORE Vegetation Management; SFAN; BAEDN","2001-09-06","Marin","38.18151438","-122.9306695",
+"xr348281","1+",,"2001-09-06","Carpobrotus edulis","staff","PORE Vegetation Management; SFAN; BAEDN","2001-09-06","Marin","38.18926938","-122.9380961",
+"xr349228","1+",,"2008-08-18","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-08-18","Marin","37.93584533","-122.7501867",
+"xr349229","1+",,"2008-08-18","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-08-18","Marin","37.93537333","-122.7498",
+"xr349272","1+",,"2008-09-17","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-09-17","Marin","38.02510667","-122.9660212",
+"xr349273","1+",,"2008-09-17","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-09-17","Marin","38.02536485","-122.9655663",
+"xr349274","1+",,"2008-09-17","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-09-17","Marin","38.02570556","-122.9648757",
+"xr349275","1+",,"2008-08-12","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-08-12","Marin","38.026365","-122.883672",
+"xr349277","1+",,"2008-08-12","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-08-12","Marin","38.02677667","-122.8872313",
+"xr349281","1+",,"2008-08-12","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-08-12","Marin","38.0276261","-122.8920268",
+"xr349282","1+",,"2008-09-17","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-09-17","Marin","38.027652","-122.963968",
+"xr349284","1+",,"2009-04-16","Carpobrotus edulis","Intern","Invasive Plant Response Team; SFAN; BAEDN","2009-04-16","Marin","38.02784","-122.8839915",
+"xr349286","1+",,"2009-04-16","Carpobrotus edulis","Intern","Invasive Plant Response Team; SFAN; BAEDN","2009-04-16","Marin","38.02814733","-122.8842527",
+"xr349289","1+",,"2008-08-12","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-08-12","Marin","38.02837776","-122.8959507",
+"xr349316","1+",,"2008-10-28","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-10-28","Marin","38.04273371","-122.9792943",
+"xr349419","1+",,"2008-10-27","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-10-27","Marin","38.08667517","-122.9522333",
+"xr349429","1+",,"2008-10-27","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-10-27","Marin","38.0951555","-122.9377068",
+"xr349498","1+",,"2008-09-03","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-09-03","Marin","38.15442333","-122.9475883",
+"xr349499","1+",,"2008-09-03","Carpobrotus edulis","Melissa Potter","Weed Watchers/I&M Early Detection; SFAN; BAEDN","2008-09-03","Marin","38.15548765","-122.9484579",
+"cbo1433","1+",,"2010-09-20","Carpobrotus edulis","Daniel Gluesenkamp","Dan Gluesenkamp: Audubon Canyon Ranch; Bay Area Early Detection Network","2010-09-20","Marin","38.220974","-122.95148",
+"cbo613","1+",,"2010-09-16","Carpobrotus edulis","Daniel Gluesenkamp","Dan Gluesenkamp: Audubon Canyon Ranch; Bay Area Early Detection Network","2010-09-16","San Francisco","37.776076","-122.51038",
+"cbo616","1+",,"2010-09-16","Carpobrotus edulis","Daniel Gluesenkamp","Dan Gluesenkamp: Audubon Canyon Ranch; Bay Area Early Detection Network","2010-09-16","Alameda","37.889416","-122.310593",
+"cbo377","1+",,"2010-08-11","Carpobrotus edulis","Matthew Danielczyk","Audubon Canyon Ranch","2010-08-11","Marin","38.216034","-122.926508","Walker Creek Delta, left bank"
+"cbo2014","1+",,"2010-11-12","Carpobrotus edulis","Matthew Danielczyk","Audubon Canyon Ranch","2010-11-12","Marin","37.929457","-122.682073","Martin Griffin Preserve, Hwy 1, main driveway"
+"cbo2157","1+",,"2010-11-18","Carpobrotus edulis","Matthew Danielczyk","Audubon Canyon Ranch","2010-11-18","Marin","38.188702","-122.913215","west of Hwy 1"
+"wb12-164","1+",,"2010-02-17","Carpobrotus edulis","Alvarez, Maria","NPS Inventory and Monitoring Program","2010-02-17","Marin","37.8485186666667","-122.491893166667","in cypress removal site below wolf ridge road25 m"
+"wb12-165","1+",,"2010-08-25","Carpobrotus edulis","GOGA-Habitat Restoration Team,","NPS Inventory and Monitoring Program","2010-08-25","Marin","37.8294983333333","-122.527835","2 small patches south east of road to nike missile"
+"wb12-166","1+",,"2010-11-08","Carpobrotus edulis","GOGA-Habitat Restoration Team,","NPS Inventory and Monitoring Program","2010-11-08","Marin","37.8378175015879","-122.498169626939","inbetween house (on lamoreaux) n mccullough rd next to gemo patch"
+"wb12-167","1+",,"2010-06-14","Carpobrotus edulis","Howe, Natalie","NPS Inventory and Monitoring Program","2010-06-14","Marin","38.0950538333333","-122.9466135","along driveway and buildings at NDOC"
+"wb12-168","1+",,"2010-06-14","Carpobrotus edulis","Howe, Natalie","NPS Inventory and Monitoring Program","2010-06-14","Marin","38.0752666666667","-122.964565833333","SFDrake, 40 m north of North Beach turnoff"
+"wb12-169","1+",,"2010-06-14","Carpobrotus edulis","Howe, Natalie","NPS Inventory and Monitoring Program","2010-06-14","Marin","38.0582291666667","-122.975202666667","bend in SFDRAKE, both sides of road"
+"wb12-170","1+",,"2010-07-15","Carpobrotus edulis","Howe, Natalie","NPS Inventory and Monitoring Program","2010-07-15","Marin","38.1545716666667","-122.891371666667","along Rt 1"
+"wb12-171","1+",,"2010-07-15","Carpobrotus edulis","Howe, Natalie","NPS Inventory and Monitoring Program","2010-07-15","Marin","38.1577831666667","-122.893335","across from house 19885, Rt 1, Marshall"
+"wb12-172","1+",,"2010-04-06","Carpobrotus edulis","NPS-Intern,","NPS Inventory and Monitoring Program","2010-04-06","Marin","37.9929608333333","-122.973448833333","on cliff"
+"wb12-173","1+",,"2010-04-06","Carpobrotus edulis","NPS-Intern,","NPS Inventory and Monitoring Program","2010-04-06","Marin","37.9912943333333","-122.972288","on cliff"
+"wb12-174","1+",,"2010-04-06","Carpobrotus edulis","NPS-Intern,","NPS Inventory and Monitoring Program","2010-04-06","Marin","37.9946371666667","-122.97613","near paved trail"
+"wb12-175","1+",,"2010-04-06","Carpobrotus edulis","NPS-Intern,","NPS Inventory and Monitoring Program","2010-04-06","Marin","37.9947981666667","-122.977121166667","next to paved trail"
+"wb12-176","1+",,"2010-04-06","Carpobrotus edulis","NPS-Intern,","NPS Inventory and Monitoring Program","2010-04-06","Marin","37.9960396666667","-122.9780805","next to road"
+"wb12-177","1+",,"2010-04-06","Carpobrotus edulis","NPS-Intern,","NPS Inventory and Monitoring Program","2010-04-06","Marin","37.9970148333333","-123.015890833333","3m up from paved trail"
+"wb12-178","1+",,"2010-04-16","Carpobrotus edulis","NPS-Park Staff,","NPS Inventory and Monitoring Program","2010-04-16","Marin","38.071695","-122.803145","in front of house 11563"
+"wb12-179","1+",,"2010-04-28","Carpobrotus edulis","NPS-Park Staff,","NPS Inventory and Monitoring Program","2010-04-28","Marin","38.1495893333333","-122.906389","in front of empty house"
+"wb12-180","1+",,"2010-04-28","Carpobrotus edulis","NPS-Park Staff,","NPS Inventory and Monitoring Program","2010-04-28","Marin","38.1491973591642","-122.90383545481","cliff at edge of beach"
+"wb12-181","1+",,"2010-05-12","Carpobrotus edulis","NPS-Park Staff,","NPS Inventory and Monitoring Program","2010-05-12","Marin","38.0332905","-122.989493833333","halfway down Holly Ln., south side of rd."
+"wb12-182","1+",,"2010-05-12","Carpobrotus edulis","NPS-Park Staff,","NPS Inventory and Monitoring Program","2010-05-12","Marin","38.0337521666667","-122.990516","both sides of Holly Ln, continuing to beach"
+"wb12-183","1+",,"2010-05-12","Carpobrotus edulis","NPS-Park Staff,","NPS Inventory and Monitoring Program","2010-05-12","Marin","38.0225711666667","-122.989121833333","along fence, beside road"
+"wb12-184","1+",,"2010-05-15","Carpobrotus edulis","NPS-Park Staff,","NPS Inventory and Monitoring Program","2010-05-15","Marin","38.0228201666667","-122.871352666667","back dune, along social trail"
+"wb12-185","1+",,"2010-05-15","Carpobrotus edulis","NPS-Park Staff,","NPS Inventory and Monitoring Program","2010-05-15","Marin","38.0227766666667","-122.870881666667","along Coastal trail"
+"wb12-186","1+",,"2010-05-15","Carpobrotus edulis","NPS-Park Staff,","NPS Inventory and Monitoring Program","2010-05-15","Marin","38.0213968333333","-122.867941666667","extensive; all along bluffs between ocean and trail"
+"wb12-187","1+",,"2010-03-20","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-03-20","San Mateo","37.6382583333333","-122.476645","4x3 patch on East side of paved trail"
+"wb12-188","1+",,"2010-03-20","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-03-20","San Mateo","37.6388033333333","-122.476786666667","20M OFF MAIN RD"
+"wb12-189","1+",,"2010-03-20","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-03-20","San Mateo","37.6406484858104","-122.478604176132","25M OFF TRAIL"
+"wb12-190","1+",,"2010-03-20","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-03-20","San Mateo","37.640858","-122.480736166667","TRAILSIDE"
+"wb12-191","1+",,"2010-05-24","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-05-24","Marin","37.8318538333333","-122.530769833333","SOUTH SIDE OF BUNKER RD"
+"wb12-192","1+",,"2010-05-24","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-05-24","Marin","37.83209","-122.526341666667","WEST SIDE OF BUNKER"
+"wb12-193","1+",,"2010-06-10","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-06-10","San Mateo","37.628585","-122.463696666667","SKYLINE COLLEGE SIGN"
+"wb12-194","1+",,"2010-07-19","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-07-19","Marin","37.8296235","-122.530262666667","EAST SIDE OF LAGOON TRAIL"
+"wb12-195","1+",,"2010-04-27","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-04-27","Marin","38.1067365","-122.862594","ROADSIDE BY TOMALES BAY RESORT"
+"wb12-196","1+",,"2010-05-11","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-05-11","Marin","38.0293777803454","-122.900651836483","patch 30 meters east of trail"
+"wb12-197","1+",,"2010-05-11","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-05-11","Marin","38.0293233333333","-122.901506","on east and west SIDE OF TRAIL"
+"wb12-198","1+",,"2010-05-11","Carpobrotus edulis","NPS-Weedwatcher Intern","NPS Inventory and Monitoring Program","2010-05-11","Marin","38.029605","-122.902402333333","small patch near sandbar"
+"cbo17332","1001 - 10000",,"2013-06-22","Carpobrotus edulis","Ramona Robison","California State Parks","2013-06-22","Marin","38.123993","-122.862284","Tomales Bay State Park. North of Millerton access on east side of Tomales Bay"
+"wb141-807","1+",,"2011-08-16","Carpobrotus edulis","LM","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.118272","-122.328795",
+"wb141-808","1+",,"2011-08-16","Carpobrotus edulis","LM","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.118017","-122.330552",
+"wb141-811","1+",,"2011-08-16","Carpobrotus edulis","LM","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.118278","-122.332481",
+"wb141-812","1+",,"2011-08-16","Carpobrotus edulis","LM","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.119314","-122.333434",
+"wb141-813","1+",,"2011-08-16","Carpobrotus edulis","LM","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.11962","-122.333934",
+"wb141-816","1+",,"2011-08-16","Carpobrotus edulis","LM","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.118895","-122.334296",
+"wb141-817","1+",,"2011-08-16","Carpobrotus edulis","LM","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.118075","-122.33395",
+"wb141-844","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.146961","-122.35153",
+"wb141-845","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.14665","-122.351402",
+"wb141-846","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.146457","-122.351069",
+"wb141-847","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.146046","-122.351162",
+"wb141-848","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.146025","-122.351499",
+"wb141-849","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.14579","-122.351811",
+"wb141-850","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.145849","-122.351259",
+"wb141-851","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.145529","-122.34998",
+"wb141-852","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.145796","-122.349815",
+"wb141-853","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.147351","-122.354104",
+"wb141-854","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.147974","-122.355312",
+"wb141-855","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.147573","-122.354941",
+"wb141-856","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.148966","-122.355384",
+"wb141-857","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.149436","-122.356395",
+"wb141-858","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.14986","-122.356647",
+"wb141-859","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.149735","-122.356702",
+"wb141-860","1+",,"2011-08-16","Carpobrotus edulis","staff","State Parks in Santa Cruz County","2011-08-16","San Mateo","37.149823","-122.357488",
+"wb207-42","1+",,"2010-01-10","Carpobrotus edulis","staff","SF WMA","2010-01-10","San Francisco","37.74999061","-122.47036421","Golden Gate Heights"
+"mcp4943",,,"2014-04-19","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-04-19","Marin","37.91276048","-122.68059776",
+"mcp4959",,,"2014-08-16","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-08-16","Marin","37.91263152","-122.68183235",
+"mcp4953",,,"2014-07-18","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-07-18","Marin","37.91218153","-122.68198964",
+"mcp4954",,,"2014-07-19","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-07-19","Marin","37.912707","-122.68161878",
+"mcp4957",,,"2014-08-01","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-08-01","Marin","37.91253108","-122.68183906",
+"mcp4952",,,"2014-07-11","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-07-11","Marin","37.91241696","-122.68128966",
+"mcp4948",,,"2014-06-06","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-06-06","Marin","37.91230063","-122.68152108",
+"mcp4949",,,"2014-06-21","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-06-21","Marin","37.91237642","-122.6813181",
+"mcp4947",,,"2014-06-10","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-06-10","Marin","37.91244181","-122.681557",
+"mcp4945",,,"2014-05-17","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-05-17","Marin","37.91207105","-122.68187926",
+"mcp4944",,,"2014-05-02","Carpobrotus edulis","Tori Bohlen","MCOSD","2014-05-02","Marin","37.91287915","-122.6803059",
+"mcp4084","2.0",,"2012-12-30","Carpobrotus edulis","Kelsey Setliff","MCOSD","2012-12-30","Marin","38.01713739","-122.5114688",
+"cbo3947","1+",,"2011-11-28","Carpobrotus edulis","Robert Steers","National Park Service, Inventory and Monitoring Program","2011-11-28","San Francisco","37.791433","-122.483849",
+"we889","1+",,"2012-01-01","Carpobrotus edulis","Matthew Danielczyk","Audubon Canyon Ranch","2012-01-01","Marin","38.214538","-122.953072","Tom's Point preserve, several patches along coastline and on coastal bluffs"
+"wb515-191","1+",,"2011-03-03","Carpobrotus edulis","Wrubel, Eric","National Park Service, SFAN Inventory and Monitoring","2011-03-03","Marin","38.0269383333","-122.8827166667","edge of marsh"
+"wb515-192","1+",,"2011-03-03","Carpobrotus edulis","Wrubel, Eric","National Park Service, SFAN Inventory and Monitoring","2011-03-03","Marin","38.0257966667","-122.8812333333","roadside near dunes"
+"wb515-193","1+",,"2011-03-03","Carpobrotus edulis","Wrubel, Eric","National Park Service, SFAN Inventory and Monitoring","2011-03-03","Marin","38.0262816667","-122.8820416667","roadside"
+"wb515-194","1+",,"2011-03-28","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-03-28","Marin","37.8337955","-122.5364183333","coastal trail"
+"wb515-195","1+",,"2011-03-28","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-03-28","Marin","37.8341856667","-122.5339078333","coastal trail"
+"wb515-196","1+",,"2011-03-31","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-03-31","San Mateo","37.6193981667","-122.4876566667","mori cove trail"
+"wb515-197","1+",,"2011-04-25","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-04-25","Marin","37.831571","-122.5338781667","lagoon trail"
+"wb515-198","1+",,"2011-04-25","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-04-25","Marin","37.8313623333","-122.5344176667","lagoon trail"
+"wb515-199","1+",,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-02","Marin","37.8318448402","-122.5370066302","w of bunker"
+"wb515-200","1+",,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-02","Marin","37.8318416667","-122.5377066667","w. of bunker"
+"wb515-201","1+",,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-02","Marin","37.83198","-122.5380933333","w. of bunker road"
+"wb515-202","1+",,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-02","Marin","37.8321","-122.5391783333","rodeo beach end of bunker road"
+"wb515-203","1+",,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-02","Marin","37.8321633333","-122.5395321667","w of bunker road by rodeo beach parking lot"
+"wb515-204","1+",,"2011-05-19","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-19","Marin","37.8460576437","-122.4891680355","upslope from sca trail"
+"wb515-205","1+",,"2011-05-19","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-19","Marin","37.8462058514","-122.4893201953","upslope from sca trail"
+"wb515-206","1+",,"2011-05-26","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-26","San Francisco","37.8045426667","-122.4768846667","south of coastal trail on hill top"
+"wb515-207","1+",,"2011-05-26","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-26","San Francisco","37.8022651667","-122.477791","west of coastal  trail"
+"wb515-208","1+",,"2011-05-26","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-26","San Francisco","37.8039943834","-122.4769100783","south of coastal trail"
+"wb515-209","1+",,"2011-05-26","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-05-26","San Francisco","37.7977333333","-122.4799233333","ne of coastal  trail"
+"wb515-210","1+",,"2011-07-06","Carpobrotus edulis","Lynch, Danny","National Park Service, SFAN Inventory and Monitoring","2011-07-06","Marin","37.9967033333","-123.0195083333","downhill from fence"
+"wb515-211","1+",,"2011-07-07","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-07-07","Marin","38.045668","-122.9722531667","e of drakes beach"
+"wb515-212","1+",,"2011-07-25","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-07-25","Marin","37.8435366667","-122.477955","e of east rd"
+"wb515-213","1+",,"2011-07-25","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-07-25","Marin","37.8425583333","-122.4776316667","corner of east rd and sanitary district"
+"wb515-214","1+",,"2011-07-25","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-07-25","Marin","37.8441566667","-122.4778508333","e of east rd"
+"wb515-215","1+",,"2011-07-26","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-07-26","Marin","38.0394116667","-122.98198","s of sir francis drake"
+"wb515-216","1+",,"2011-07-26","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-07-26","Marin","38.0466733333","-122.97537","n of sir francis drve"
+"wb515-217","1+",,"2011-08-18","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-08-18","Marin","37.8263726667","-122.5190996667","e of conzelman by battery"
+"wb515-218","1+",,"2011-08-22","Carpobrotus edulis","Alvarez, Maria","National Park Service, SFAN Inventory and Monitoring","2011-08-22","Marin","37.8380038646","-122.5427636516","on south edge of Bunker loop rd"
+"wb515-219","1+",,"2011-09-08","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-09-08","Marin","37.9210933333","-122.67155","w of hwy 1"
+"wb515-220","1+",,"2011-09-08","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-09-08","Marin","37.9254766667","-122.679545","w of hwy 1"
+"wb515-221","1+",,"2011-09-27","Carpobrotus edulis","Wrubel, Eric","National Park Service, SFAN Inventory and Monitoring","2011-09-27","Marin","37.8342436667","-122.5318248333","n side maintenance yard"
+"wb515-222","1+",,"2011-09-27","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-09-27","Marin","37.9105388333","-122.6584926667","w of hwt 1"
+"wb515-223","1+",,"2011-09-27","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service, SFAN Inventory and Monitoring","2011-09-27","Marin","37.9110358333","-122.6597936667","w of hwy 1"
+"wb515-224","1+",,"2011-09-28","Carpobrotus edulis","Wrubel, Eric","National Park Service, SFAN Inventory and Monitoring","2011-09-28","Marin","37.8339103333","-122.5333975","on trail from nursery to maintenance yard"
+"wb515-225","1+",,"2011-09-28","Carpobrotus edulis","Wrubel, Eric","National Park Service, SFAN Inventory and Monitoring","2011-09-28","Marin","37.8320163333","-122.5355005","w edge of parking kot"
+"wb515-226","1+",,"2011-09-29","Carpobrotus edulis","Wrubel, Eric","National Park Service, SFAN Inventory and Monitoring","2011-09-29","Marin","37.8330937035","-122.5330565933","n side Kirkpatrick road"
+"wb515-227","1+",,"2011-09-30","Carpobrotus edulis","Wrubel, Eric","National Park Service, SFAN Inventory and Monitoring","2011-09-30","Marin","37.8243433333","-122.5085841667","fisherman's trail at beach"
+"wb515-228","1+",,"2011-03-01","Carpobrotus edulis","Wrubel, Eric","National Park Service, SFAN Inventory and Monitoring","2011-03-01","Marin","38.02907","-122.903083","On e edge of wave channel through dunes"
+"wb681-163","1+",,"2010-02-02","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-02-02","San Mateo","37.1321953","-122.33687723",
+"wb681-172","1+",,"2009-10-29","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2009-10-29","San Mateo","37.16588227","-122.36274387",
+"wb681-173","1+",,"2009-10-29","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2009-10-29","San Mateo","37.15982823","-122.36035245",
+"wb681-174","1+",,"2009-10-29","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2009-10-29","San Mateo","37.15883783","-122.36022103",
+"wb681-175","1+",,"2009-10-29","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2009-10-29","San Mateo","37.15783179","-122.35996363",
+"wb681-176","1+",,"2009-10-29","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2009-10-29","San Mateo","37.15564845","-122.35837026",
+"wb681-177","1+",,"2010-01-11","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-01-11","San Mateo","37.1469447","-122.35243996",
+"wb681-179","1+",,"2010-02-18","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-02-18","San Mateo","37.11725523","-122.31536711",
+"wb681-180","1+",,"2009-11-04","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2009-11-04","San Mateo","37.27530575","-122.40911677",
+"wb681-182","1+",,"2009-11-04","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2009-11-04","San Mateo","37.27127725","-122.40987774",
+"wb681-184","1+",,"2010-01-29","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-01-29","San Mateo","37.26566752","-122.41253499",
+"wb681-188","1+",,"2010-05-04","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-05-04","San Mateo","37.26694405","-122.40989669",
+"wb681-189","1+",,"2010-05-04","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-05-04","San Mateo","37.27791986","-122.40890331",
+"wb681-190","1+",,"2010-05-04","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-05-04","San Mateo","37.27937211","-122.40851525",
+"wb681-191","1+",,"2010-05-06","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-05-06","San Mateo","37.25444596","-122.41497859",
+"wb681-192","1+",,"2010-05-06","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-05-06","San Mateo","37.2595105","-122.41364803",
+"wb681-196","1+",,"2010-02-02","Carpobrotus edulis","staff","State Parks WIMS 2009-2010","2010-02-02","San Mateo","37.12286451","-122.33667252",
+"jgr22838","1+",,"1980-03-09","Carpobrotus edulis","Jeff Greenhouse",,"1980-03-09","Marin","37.9060368","-122.5449763","Mill Valley"
+"in:580200","1+",,"2014-03-23","Carpobrotus edulis","Scott Loarie","iNaturalist","2014-03-23","San Mateo","37.501938","-122.495397","pillar point CA"
+"in:205795","1+",,"2013-02-24","Carpobrotus edulis","Beatriz Arostegui","iNaturalist","2013-02-24","San Francisco","37.821","-122.5295","Marin Headlands, Sausalito, California"
+"in:206231","1+",,"2013-02-24","Carpobrotus edulis","Arielle Parnes-Katz","iNaturalist","2013-02-24","San Francisco","37.8168333333","-122.526","Sausalito, Sausalito, California"
+"in:232651","1+",,"2013-04-07","Carpobrotus edulis","calico","iNaturalist","2013-04-07","San Mateo","37.1824073319","-122.3930596921","Pigeon Point Lighthouse"
+"in:574545","1+",,"2014-03-18","Carpobrotus edulis","ebabcock","iNaturalist","2014-03-18","San Francisco","37.713496","-122.500755","Fort Funston, San Francisco, California"
+"in:575348","1+",,"2014-03-19","Carpobrotus edulis","Leslie Flint","iNaturalist","2014-03-19","San Mateo","37.619451","-122.487713","336 Seaside Dr, Pacifica, CA, US"
+"in:248328","1+",,"2013-04-28","Carpobrotus edulis","Ken McGary","iNaturalist","2013-04-28","San Francisco","37.723352","-122.424465","McLaren Park, San Francisco, California"
+"wb1184-168","1+",,"2013-04-10","Carpobrotus edulis","treilly","California State Parks WIMS","2013-04-10","San Mateo","37.11725799","-122.31614557","staging cliffs"
+"in:88307","1+",,"2012-06-05","Carpobrotus edulis","Scott Loarie","iNaturalist","2012-06-05","San Francisco","37.755449","-122.444705",
+"in:81398","1+",,"2012-05-19","Carpobrotus edulis","Scott Loarie","iNaturalist","2012-05-19","Marin","38.1229983847","-122.9550699104","Abbott's Lagoon"
+"in:535828","1+",,"2014-02-16","Carpobrotus edulis","sierranicole","iNaturalist","2014-02-16","Alameda","37.863589","-122.314804",
+"in:46334","1+",,"2012-01-07","Carpobrotus edulis","Scott Loarie","iNaturalist","2012-01-07","San Francisco","37.7834619829","-122.5108623505","sutro baths"
+"in:264163","1+",,"2013-05-11","Carpobrotus edulis","Alan Joseph Williams","iNaturalist","2013-05-11","San Francisco","37.711865","-122.425806","McLaren Park, San Francisco, California"
+"in:262904","1+",,"2013-05-11","Carpobrotus edulis","toshi","iNaturalist","2013-05-11","San Francisco","37.71974","-122.422497","McLaren Park, San Francisco, California"
+"in:264878","1+",,"2013-05-11","Carpobrotus edulis","Scott Loarie","iNaturalist","2013-05-11","San Francisco","37.712007","-122.425832","San Francisco, California"
+"in:262662","1+",,"2013-05-11","Carpobrotus edulis","jaiya","iNaturalist","2013-05-11","San Francisco","37.719917","-122.422905","McLaren Park, San Francisco, California"
+"in:284975","1+",,"2013-06-01","Carpobrotus edulis","Scott Loarie","iNaturalist","2013-06-01","San Mateo","37.64132","-122.48181","Milagra Ridge, Pacifica, California"
+"in:287098","1+",,"2013-06-02","Carpobrotus edulis","snakeinmypocket","iNaturalist","2013-06-02","Marin","38.2401666667","-122.9625",
+"in:572272","1+",,"2014-03-16","Carpobrotus edulis","Scott Loarie","iNaturalist","2014-03-16","Alameda","37.836768","-122.297981","Emoryville, CA"
+"wb1163-255","1+",,"2013-07-01","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2013-07-01","Marin","37.8590116666667","-122.575048","dune under stairs"
+"wb1163-254","1+",,"2013-06-17","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2013-06-17","Marin","37.8367496666667","-122.490003333333","in coyote brush in clearing on hill"
+"wb1163-241","1+",,"2012-06-21","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-06-21","San Mateo","37.5317555","-122.4989825","big patch right of trail"
+"wb1163-240","1+",,"2012-06-14","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-06-14","San Mateo","37.6184766666667","-122.495480166667","at base of hillside"
+"wb1163-239","1+",,"2012-05-07","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-05-07","Marin","37.8351486666667","-122.548105","east of trail"
+"wb1163-238","1+",,"2012-05-03","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-05-03","Marin","37.8335315","-122.538542666667","north of social trail from parking lot"
+"wb1163-253","1+",,"2013-04-09","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2013-04-09","Marin","37.8356351689931","-122.543745424344","n side of coastal trail"
+"wb1163-252","1+",,"2012-09-21","Carpobrotus edulis","Wrubel, Eric","SFNPS Early Detection","2012-09-21","Marin","37.8354416666667","-122.543149166667","s side coastal trail"
+"wb1163-251","1+",,"2012-09-17","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-09-17","San Francisco","37.806002","-122.469886833333","at intersection of long ave."
+"wb1163-250","1+",,"2012-07-23","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-07-23","San Francisco","37.7870515","-122.501182333333","on inland side of slope"
+"wb1163-249","1+",,"2012-07-16","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-07-16","San Mateo","37.51535","-122.46129","Roadside"
+"wb1163-248","1+",,"2012-07-09","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-07-09","Marin","37.8351646666667","-122.535112666667","0702"
+"wb1163-247","1+",,"2012-07-09","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-07-09","Marin","37.8326765","-122.536199333333","above wall"
+"wb1163-246","1+",,"2012-07-02","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-07-02","San Francisco","37.7915206666667","-122.483796833333","5 m south of trail"
+"wb1163-245","1+",,"2012-06-28","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-06-28","Marin","37.835438","-122.531664833333","hillside behind marine mammal building"
+"wb1163-244","1+",,"2012-06-28","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-06-28","Marin","37.834726","-122.531628","parking lot in ceanothus"
+"wb1163-243","1+",,"2012-06-26","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-06-26","San Mateo","37.5267371666667","-122.50578","left side of trail near intersection"
+"wb1163-242","1+",,"2012-06-26","Carpobrotus edulis","Weed Watcher Volunteer,","SFNPS Early Detection","2012-06-26","San Mateo","37.5312373333333","-122.499037666667","under pine"
+"wb1164-355","1+",,"2013-03-21","Carpobrotus edulis","Davis, Christine","SFAN I&M Early Detection","2013-03-21","Marin","38.0272758333333","-122.882706833333","marsh edge"
+"wb1164-356","1+",,"2013-03-21","Carpobrotus edulis","Davis, Christine","SFAN I&M Early Detection","2013-03-21","Marin","38.0271316666667","-122.882845","limantour spit"
+"wb1164-402","1+",,"2013-04-08","Carpobrotus edulis","Davis, Christine","SFAN I&M Early Detection","2013-04-08","Marin","38.1196266666667","-122.952876666667","abbotts lagoon"
+"wb1164-481","1+",,"2013-05-28","Carpobrotus edulis","Davis, Christine","SFAN I&M Early Detection","2013-05-28","Marin","38.0350003333333","-122.983955333333","sfdrake"
+"wb1164-483","1+",,"2013-05-28","Carpobrotus edulis","Davis, Christine","SFAN I&M Early Detection","2013-05-28","Marin","38.0296883333333","-122.985383333333","sfdrake"
+"wb1164-484","1+",,"2013-05-28","Carpobrotus edulis","Davis, Christine","SFAN I&M Early Detection","2013-05-28","Marin","38.0467283333333","-122.977638333333","sfdrake"
+"wb1164-541","1+",,"2013-06-19","Carpobrotus edulis","Davis, Christine","SFAN I&M Early Detection","2013-06-19","Marin","38.0616983333333","-122.973141666667","sfdrake rd"
+"wb1164-542","1+",,"2013-06-19","Carpobrotus edulis","Davis, Christine","SFAN I&M Early Detection","2013-06-19","Marin","38.06592","-122.972136666667","sfdrake"
+"wb1164-549","1+",,"2013-06-19","Carpobrotus edulis","Davis, Christine","SFAN I&M Early Detection","2013-06-19","Marin","38.0781583333333","-122.96214","sfdrake rd"
+"in:376491","1+",,"2013-08-24","Carpobrotus edulis","Scott Loarie","iNaturalist","2013-08-24","San Francisco","37.723834","-122.505551","San Francisco, California"
+"in:376771","1+",,"2013-08-24","Carpobrotus edulis","Jennifer Rycenga","iNaturalist","2013-08-24","San Francisco","37.71355","-122.503929","Fort Funston, San Francisco, California"
+"in:387696","1+",,"2013-09-03","Carpobrotus edulis","d.","iNaturalist","2013-09-03","San Francisco","37.773479","-122.455673","Golden Gate Park, San Francisco, California"
+"wb1171-21","1+",,"2013-08-22","Carpobrotus edulis","Wrubel, Eric","SFNPS Early Detection","2013-08-22","San Francisco","37.784578712","-122.507988583","n of trail"
+"in:554336","1+",,"2014-03-05","Carpobrotus edulis","Marisa Rafter","iNaturalist","2014-03-05","Alameda","37.752813","-122.24634","Alameda"
+"in:591142","1+",,"2014-03-28","Carpobrotus edulis","sfritz","iNaturalist","2014-03-28","San Francisco","37.826667","-122.423603","Alcatraz National Park, San Francisco, California"
+"in:550755","1+",,"2014-03-01","Carpobrotus edulis","Brian Martin","iNaturalist","2014-03-01","Alameda","37.863042","-122.305019","Berkeley"
+"in:437741","1+",,"2013-10-21","Carpobrotus edulis","Michael Chass�","iNaturalist","2013-10-21","Marin","37.859295","-122.575063","Muir Beach"
+"in:443836","1+",,"2013-10-29","Carpobrotus edulis","Michael Chass�","iNaturalist","2013-10-29","Marin","37.83046885","-122.53640957",
+"wb1185-8","1+",,"2013-03-13","Carpobrotus edulis","ariley","California State Parks WIMS","2013-03-13","San Mateo","37.15843796","-122.35986901","frank pt"
+"wb1185-9","1+",,"2013-03-13","Carpobrotus edulis","treilly","California State Parks WIMS","2013-03-13","San Mateo","37.15570619","-122.35943247","Franklin Point"
+"wb1185-10","1+",,"2013-03-13","Carpobrotus edulis","treilly","California State Parks WIMS","2013-03-13","San Mateo","37.15383469","-122.35856926","Franklin Point"
+"wb1185-11","1+",,"2013-03-15","Carpobrotus edulis","treilly","California State Parks WIMS","2013-03-15","San Mateo","37.15134024","-122.35856761","Franklin Point"
+"wb1185-12","1+",,"2013-03-15","Carpobrotus edulis","treilly","California State Parks WIMS","2013-03-15","San Mateo","37.15014911","-122.35796517","Franklin Point Main"
+"wb1185-14","1+",,"2013-03-15","Carpobrotus edulis","lm","California State Parks WIMS","2013-03-15","San Mateo","37.12359349","-122.33696219","chucks house"
+"wb1185-19","1+",,"2013-03-28","Carpobrotus edulis","treilly","California State Parks WIMS","2013-03-28","San Mateo","37.26228006","-122.41296384","equal access"
+"wb1185-20","1+",,"2013-03-28","Carpobrotus edulis","treilly","California State Parks WIMS","2013-03-28","San Mateo","37.25691876","-122.41430831","south pesc parking area"
+"in:472218","1+",,"2013-12-01","Carpobrotus edulis","nudibranchmom","iNaturalist","2013-12-01","San Mateo","37.498935","-122.496145","W Point Ave, El Granada, CA, US"
+"wb1184-165","1+",,"2013-04-10","Carpobrotus edulis","treilly","California State Parks WIMS","2013-04-10","San Mateo","37.1324089","-122.33657617","chucks house1"
+"wb1184-163","1+",,"2013-04-03","Carpobrotus edulis","treilly","California State Parks WIMS","2013-04-03","San Mateo","37.27821726","-122.40900892","north pescadero bluff"
+"wb1184-162","1+",,"2013-04-03","Carpobrotus edulis","treilly","California State Parks WIMS","2013-04-03","San Mateo","37.27161558","-122.40977374","S of N Pescadero parking lot"
+"wb1184-161","1+",,"2013-04-03","Carpobrotus edulis","treilly","California State Parks WIMS","2013-04-03","San Mateo","37.26635253","-122.40973305","1st patch n & e of bridgeY"
+"wb1184-156","1+",,"2013-03-28","Carpobrotus edulis","Dave p","California State Parks WIMS","2013-03-28","San Mateo","37.26512178","-122.41262629","W of highway"
+"wb1184-155","1+",,"2013-03-13","Carpobrotus edulis","treilly","California State Parks WIMS","2013-03-13","San Mateo","37.16245331","-122.36043028","Gazos-Twin Towers Dunes"
+"wb1184-153","1+",,"2013-03-13","Carpobrotus edulis","ariley","California State Parks WIMS","2013-03-13","San Mateo","37.1469959","-122.35299854","s frank pt"
+"wb1184-148","1+",,"2013-02-22","Carpobrotus edulis","ALE","California State Parks WIMS","2013-02-22","San Mateo","37.16589829","-122.36274251","FRANKLIN POINT15"
+"mg2004",,,"2014-02-11","Carpobrotus edulis","Vertin Alvarez ",,"2014-02-11","Marin","37.89636","-122.526168",
+"mg2020",,,"2014-02-11","Carpobrotus edulis","Vertin Alvarez ",,"2014-02-11","Marin","37.88647","-122.521178",
+"in:590055","1+",,"2014-03-28","Carpobrotus edulis","cdquock","iNaturalist","2014-03-28","San Francisco","37.800484","-122.480159",
+"in:587200","1+",,"2014-03-28","Carpobrotus edulis","mwoodworth","iNaturalist","2014-03-28","San Francisco","37.792544","-122.446692",
+"in:586399","1+",,"2014-03-28","Carpobrotus edulis","jacmccl","iNaturalist","2014-03-28","San Francisco","37.712475","-122.499922","Fort Funston, San Francisco, California"
+"in:585336","1+",,"2014-03-27","Carpobrotus edulis","Michael Chass�","iNaturalist","2014-03-27","San Francisco","37.775785","-122.511059","Sutro Dunes"
+"in:596639","1+",,"2014-03-29","Carpobrotus edulis","perlmutter","iNaturalist","2014-03-29","San Francisco","37.802202","-122.477819","The Presidio of San Francisco, San Francisco, CA, US"
+"in:593134","1+",,"2014-03-28","Carpobrotus edulis","rudyard","iNaturalist","2014-03-28","San Francisco","37.7397194444","-122.5078111111","Golden Gate Natl. Rec. Area - SF, San Francisco, Golden Gate National Recreation Area, California"
+"in:593018","1+",,"2014-03-28","Carpobrotus edulis","Coty Sifuentes-Winter","iNaturalist","2014-03-28","San Francisco","37.79081","-122.485787",
+"in:592023","1+",,"2014-03-28","Carpobrotus edulis","Scott Loarie","iNaturalist","2014-03-28","San Francisco","37.803614","-122.469025","The Presidio of San Francisco, San Francisco, CA, US"
+"in:590425","1+",,"2014-03-28","Carpobrotus edulis","Lew Stringer","iNaturalist","2014-03-28","San Francisco","37.79121","-122.474317","The Presidio of San Francisco, San Francisco, CA, US"
+"in:588968","1+",,"2014-03-28","Carpobrotus edulis","jenniferdumas","iNaturalist","2014-03-28","San Francisco","37.820743","-122.529627","Marin Headlands, Sausalito, CA, US"
+"in:588645","1+",,"2014-03-28","Carpobrotus edulis","petercollier","iNaturalist","2014-03-28","San Francisco","37.8011644","-122.46799419",
+"in:598819","1+",,"2014-03-28","Carpobrotus edulis","hkase","iNaturalist","2014-03-28","San Francisco","37.791858","-122.447964",
+"in:659286","1+",,"2014-05-04","Carpobrotus edulis","Ken-ichi Ueda","iNaturalist","2014-05-04","San Francisco","37.747019","-122.469956","Hawk Hill Park, San Francisco, CA, US"
+"wb1295-2",,,"2014-05-19","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-05-19","Marin","38.18859","-122.95751","parking lot near restrooms"
+"wb1295-1",,,"2014-05-23","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-05-23","Marin","37.997048","-123.015154","s side of lighthouse rd."
+"wb1295-0",,,"2014-05-23","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-05-23","Marin","37.996667","-123.014444","s side of lighthouse road"
+"wb1294-3",,,"2014-05-21","Carpobrotus edulis","Aquila, Joseph","National Park Service","2014-05-21","Marin","37.834167","-122.53342",
+"wb1294-18",,,"2014-05-19","Carpobrotus edulis","Unitis, Matt","National Park Service","2014-05-19","Marin","37.834337","-122.530661","MARINE MAMMAL DRAINAGE"
+"wb1294-19",,,"2014-05-21","Carpobrotus edulis","Aquila, Joseph","National Park Service","2014-05-21","Marin","37.834167","-122.53342","BETWEEN COASTAL Trail ROAD AND MAINTENANCE"
+"wb1292-5",,,"2014-03-27","Carpobrotus edulis","Wrubel, Eric","National Park Service","2014-03-27","Marin","37.826864","-122.490845","bluffs at kirby cove beach"
+"wb1292-49",,,"2014-04-22","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service","2014-04-22","Marin","37.833351","-122.481644","TRAIL GG"
+"wb1292-50",,,"2014-04-22","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service","2014-04-22","Marin","37.833915","-122.474882","edge along rocky beach"
+"wb1292-51",,,"2014-04-22","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service","2014-04-22","Marin","37.835854","-122.474008","trail"
+"wb1292-102",,,"2014-04-28","Carpobrotus edulis","Weed Watcher Volunteer,","National Park Service","2014-04-28","Marin","37.829815","-122.526623","RESIDENT RD"
+"in:782501","1+",,"2014-07-13","Carpobrotus edulis","Jennifer Rycenga","iNaturalist","2014-07-13","San Mateo","37.5110583333","-122.5065383333","900?982 Airport St, Moss Beach, CA, US"
+"wb1323-1",,,"2014-06-12","Carpobrotus edulis","Huizenga, Emily","National Park Service","2014-06-12","San Mateo","37.619722","-122.490543","s side of fire rd"
+"wb1323-26",,,"2014-06-05","Carpobrotus edulis","Aquila, Joseph","National Park Service","2014-06-05","San Francisco","37.82126","-122.529619","POINT BONITA LIGHTHOUSE TRAIL"
+"wb1323-27",,,"2014-06-05","Carpobrotus edulis","Aquila, Joseph","National Park Service","2014-06-05","Marin","37.826851","-122.520295","TRAIL ALONG CONZELMAN"
+"in:783383","1+",,"2014-07-13","Carpobrotus edulis","tui","iNaturalist","2014-07-13","San Mateo","37.511505","-122.5070033333","900?982 Airport St, Moss Beach, CA, US"
+"in:777500","1+",,"2014-07-10","Carpobrotus edulis","Todd Plummer","iNaturalist","2014-07-10","Marin","38.155536","-122.948589",
+"mg6580","1+",,"2014-08-11","Carpobrotus edulis","Pete Frye","Marin County Parks Staff","2014-08-11","Marin","38.079077942854674","-122.52875620499253","under tree along roadside"
+"wb1326-21",,,"2014-07-10","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-10","Marin","37.997607","-123.010352","nw side of sir francis drake road"
+"wb1326-22",,,"2014-07-23","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-23","Marin","38.024473","-122.986494","east side of sir francis drake road"
+"wb1326-23",,,"2014-07-23","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-23","Marin","38.035753","-122.983969","both sides of sir francis drake road"
+"wb1326-24",,,"2014-07-09","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-09","Marin","38.046765","-122.974865","east side of sir francis drake road"
+"wb1326-25",,,"2014-07-10","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-10","Marin","38.030435","-122.962025","north side of drakes beach road"
+"wb1326-26",,,"2014-07-09","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-09","Marin","38.048234","-122.973868","east side of sir francis drake road"
+"wb1326-27",,,"2014-07-09","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-09","Marin","38.044954","-122.971637","north side of drakes beach rd between 2 patches"
+"wb1326-28",,,"2014-07-09","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-09","Marin","38.043866","-122.970784","one patch n side of drakes beach road"
+"wb1326-29",,,"2014-07-07","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-07","Marin","38.06244","-122.973047","east side of sir francis drake road"
+"wb1326-30",,,"2014-07-07","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-07","Marin","38.059956","-122.973993","hill on west side of sir francis drake road"
+"wb1326-31",,,"2014-07-07","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-07","Marin","38.051551","-122.974807","east side of sir francis drake road"
+"wb1326-32",,,"2014-07-02","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-02","Marin","38.077167","-122.962331","east side of side of sir francis drake road, small patch"
+"wb1326-33",,,"2014-07-07","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-07-07","Marin","38.072761","-122.96689","east side of sir francis drake road"
+"in:877079","1+",,"2014-09-14","Carpobrotus edulis","Ken-ichi Ueda","iNaturalist","2014-09-14","Alameda","37.8260876611","-122.3166853377","I-80 W, Oakland, CA, US"
+"wb1333-19",,,"2014-08-04","Carpobrotus edulis","Huizenga, Emily","National Park Service","2014-08-04","Marin","37.91803","-122.669035","w side of hwy 1"
+"wb1333-20",,,"2014-08-04","Carpobrotus edulis","Huizenga, Emily","National Park Service","2014-08-04","Marin","37.914631","-122.665286","w side of hwy 1"
+"wb1333-21",,,"2014-08-04","Carpobrotus edulis","Huizenga, Emily","National Park Service","2014-08-04","Marin","37.925205","-122.676702","w side of hwy 1"
+"wb1333-22",,,"2014-08-04","Carpobrotus edulis","Huizenga, Emily","National Park Service","2014-08-04","Marin","37.924119","-122.675065","w side of hwy 1"
+"wb1334-11",,,"2014-09-22","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-09-22","Marin","38.205627","-122.925445","unnamed trail, near the water"
+"wb1334-12",,,"2014-08-22","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-08-22","Marin","38.026479","-122.888205","edge of limantour beach"
+"wb1334-13",,,"2014-08-22","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-08-22","Marin","38.027657","-122.895162","small patch along limantour beach"
+"wb1334-14",,,"2014-08-22","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-08-22","Marin","38.028058","-122.897551","limantour beach, just a few plants"
+"wb1334-15",,,"2014-08-22","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-08-22","Marin","38.03006","-122.905682","limantour spit"
+"wb1334-16",,,"2014-08-22","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-08-22","Marin","38.026636","-122.885843","west side of the limantour spit trail"
+"wb1334-17",,,"2014-08-06","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-08-06","Marin","38.111771","-122.890513","west side of pierce point road"
+"wb1334-18",,,"2014-09-10","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-09-10","Marin","38.03164","-122.940211","15 m west of bluff, drakes beach"
+"wb1334-19",,,"2014-09-10","Carpobrotus edulis","Stevenson, Nicholas","National Park Service","2014-09-10","Marin","38.032041","-122.939486","base of drakes beach bluff"
+"in:1064619","1+",,"2014-11-08","Carpobrotus edulis","Rebecca Johnson","iNaturalist","2014-11-08","San Francisco","37.735005","-122.3759166667","Inda Basin Shoreline Park, San Francisco, CA, US"
+"in:1062440","1+",,"2014-11-08","Carpobrotus edulis","Peter Brastow","iNaturalist","2014-11-08","San Francisco","37.738484","-122.376493",
+"in:1080445","1+",,"2014-11-16","Carpobrotus edulis","Michael Chass�","iNaturalist","2014-11-16","San Francisco","37.81305","-122.369641","Clipper Cove Beach, Yerba Buena Island"
+"gx22095",,,"2010-08-25","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2010-08-25","Marin","37.82949833333333","-122.52783499999997","2 small patches south east of road to nike missile"
+"gx22051",,,"2009-11-23","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2009-11-23","Marin","37.83650551058813","-122.54708372160206","along the edge of eastern drop off in lower elevation"
+"gx21939",,,"2010-02-17","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2010-02-17","Marin","37.84851866666666","-122.49189316666667","in cypress removal site below wolf ridge road25 m"
+"gx21684",,,"2011-10-31","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2011-10-31","Marin","37.83433456752591","-122.53374433101358","roads maintenance yard"
+"gx20270",,,"2013-03-24","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-03-24","Marin","37.824861067409586","-122.5261413250745","uphill n in cypress ne of camp"
+"gx21454",,,"2015-01-11","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2015-01-11","Marin","37.82456091795911","-122.52905500555924","west of battery wallace"
+"gx21407",,,"2014-11-06","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-06","Marin","37.82440990497106","-122.52790002038012","top of battery wallace"
+"gx21397",,,"2014-11-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-04","Marin","37.82489422638674","-122.52615537612711","below trail"
+"gx21398",,,"2014-11-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-04","Marin","37.82398133333334","-122.52531233333332","below camp bicentennial"
+"gx21379",,,"2014-10-27","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-10-27","Marin","37.83760149175978","-122.498706018508","backyard of 807 capehart on slopes heading south and east"
+"gx21378",,,"2014-10-27","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-10-27","Marin","37.83592066666666","-122.5006105","on both sides of cul de sac near back of 809B"
+"gx21338",,,"2014-07-25","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-07-25","Marin","37.824653419730126","-122.53034849666818","battery alexander"
+"gx21313",,,"2014-10-02","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-10-02","Marin","37.829323333333335","-122.52227900000001","ft barry quarry parking"
+"gx21277",,,"2014-09-23","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-09-23","Marin","37.834777243260184","-122.53379557632057","west slope of roads yard"
+"gx21259",,,"2014-09-22","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-09-22","Marin","37.824955410699886","-122.52864149820962","west side of battery Wallace"
+"gx21182",,,"2014-08-24","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-08-24","Marin","37.832174333333334","-122.54056583333335","sothwest slope along coastal trail 45m from gate"
+"gx13409","2",,"2010-08-25","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2010-08-25","Marin","37.82949833333333","-122.52783499999997","2 small patches south east of road to nike missile"
+"gx17814",,,"2014-11-06","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-06","Marin","37.82440990497106","-122.52790002038012","top of battery wallace"
+"gx20783",,,"2014-03-27","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2014-03-27","Marin","37.826863833333334","-122.49084533333335","bluffs at kirby cove beach"
+"gx20679",,,"2013-09-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-09-04","Marin","37.83519","-122.53730667","south side of water tank"
+"gx20605",,,"2013-08-07","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2013-08-07","Marin","37.83481056826015","-122.54769594987427","along both sides of dirt road"
+"gx20600",,,"2013-08-07","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-08-07","Marin","37.835184333333345","-122.54277450000001","ABOVE COASTAL TRAIL ROAD AT UTURN"
+"gx20596",,,"2013-08-07","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-08-07","Marin","37.83566184947794","-122.54591435198977","ABOVE COASTAL TRAIL UTURN ON HILLSIDE TO SOUTH UNDER ROCK OUTCROPPING"
+"gx20470",,,"2013-07-01","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-07-01","Marin","37.85901166666667","-122.575048","dune under stairs"
+"gx20446",,,"2013-06-17","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-06-17","Marin","37.83674966666667","-122.49000333333333","in coyote brush in clearing on hill"
+"gx20271",,,"2013-03-24","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-03-24","Marin","37.82441333333334","-122.52973333333333","battery wallace"
+"gx17805",,,"2014-11-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-04","Marin","37.824974499999996","-122.52712783333334","slope above camp bicentennial"
+"gx17803",,,"2014-11-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-04","Marin","37.82398133333334","-122.52531233333332","below camp bicentennial"
+"gx20123",,,"2012-11-02","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2012-11-02","Marin","37.83049608434271","-122.53612404301431","REAR DUNE 100M EAST OF BRIDGE"
+"gx20094",,,"2012-10-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2012-10-04","Marin","37.82441333333334","-122.52973333333333","newly pulled 10x27m by hrt today"
+"gx19988",,,"2012-08-26","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2012-08-26","Marin","37.84024431732683","-122.54554376416256","1 small patch removed 1m sq"
+"gx19916",,,"2012-07-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-07-02","San Francisco","37.79152066666667","-122.48379683333336","5 m south of trail"
+"gx19771",,,"2013-01-16","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-01-16","Marin","37.91386299999999","-122.66460750000002","WEST OF HIGHWAY 1"
+"gx1297",,,"2006-10-11","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-11","San Francisco","37.821993681558446","-122.53006144381094","on bunker, .25 hectare"
+"in:1193626","1+",,"2015-01-24","Carpobrotus edulis","Scott Loarie","iNaturalist","2015-01-24","Marin","37.8918434871","-122.6352392425",
+"in:1249761","1+",,"2015-02-21","Carpobrotus edulis","sjb","iNaturalist","2015-02-21","San Francisco","37.71677702","-122.50378354",
+"in:1251941","1+",,"2015-02-22","Carpobrotus edulis","khnmc","iNaturalist","2015-02-22","San Francisco","37.7640158667","-122.5107866833",
+"mg9347",,,"2015-04-03","Carpobrotus edulis","John Malpas",,"2015-04-03","Marin","37.82847","-122.53455",
+"gx16628",,,"2013-08-07","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-08-07","Marin","37.83566184947794","-122.54591435198977","ABOVE COASTAL TRAIL UTURN ON HILLSIDE TO SOUTH UNDER ROCK OUTCROPPING"
+"gx15851","0",,"2012-10-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2012-10-04","Marin","37.82441333333334","-122.52973333333333","newly pulled 10x27m by hrt today"
+"gx17894","0",,"2015-01-11","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2015-01-11","Marin","37.82456091795911","-122.52905500555924","west of battery wallace"
+"gx18016",,,"2014-09-23","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-09-23","Marin","37.834777243260184","-122.53379557632057","west slope of roads yard"
+"gx13821","1",,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-02","Marin","37.831979999999994","-122.53809333333332","w. of bunker road"
+"gx13340","3",,"2009-11-23","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2009-11-23","Marin","37.83650551058813","-122.54708372160206","along the edge of eastern drop off in lower elevation"
+"gx18235",,,"2011-10-31","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2011-10-31","Marin","37.83433456752591","-122.53374433101358","roads maintenance yard"
+"gx13052","3",,"2010-02-17","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2010-02-17","Marin","37.84851866666666","-122.49189316666667","in cypress removal site below wolf ridge road25 m"
+"gx19562",,,"2012-01-27","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2012-01-27","Marin","37.822968168755196","-122.52812449223246","south west corner of battery wallace west meadow"
+"gx15565","1",,"2012-08-26","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2012-08-26","Marin","37.84024431732683","-122.54554376416256","1 small patch removed 1m sq"
+"gx17778",,,"2014-10-27","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-10-27","Marin","37.83592066666666","-122.5006105","on both sides of cul de sac near back of 809B"
+"gx19427",,,"2010-09-06","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2010-09-06","Marin","37.82441333333334","-122.52973333333333","battery wallace"
+"gx19388",,,"2011-09-30","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-30","Marin","37.82434333333334","-122.50858416666668","fisherman's trail at beach"
+"gx19320",,,"2011-08-22","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2011-08-22","Marin","37.838003864574794","-122.54276365156721","on south edge of Bunker loop rd"
+"gx19072",,,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-02","Marin","37.83184166666667","-122.53770666666668","w. of bunker"
+"gx19071",,,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-02","Marin","37.831979999999994","-122.53809333333332","w. of bunker road"
+"gx11533","0",,"2006-08-27","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-08-27","Marin","37.83402666666667","-122.54486999999999","coastal trail"
+"gx18978",,,"2011-02-06","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2011-02-06","Marin","37.82441333333334","-122.52973333333333","battery wallace"
+"gx11773","0",,"2007-10-12","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-10-12","Marin","37.993525","-122.97352666666666","west, uphill from boathouse."
+"gx12273","0",,"2008-10-08","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2008-10-08","Marin","37.83071166666667","-122.52228333333332","base of planting site, above carex"
+"gx11535","0",,"2006-08-27","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2006-08-27","Marin","37.833450000000006","-122.54455666666667","coastalsocial bluff"
+"gx11622","0",,"2007-02-25","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-02-25","Marin","37.82391500000001","-122.52739500000001","next to road"
+"gx16632",,,"2013-08-07","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-08-07","Marin","37.835184333333345","-122.54277450000001","ABOVE COASTAL TRAIL ROAD AT UTURN"
+"gx18660",,,"2009-07-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-02","Marin","37.82742433333333","-122.49985166666669","hawk hill"
+"gx13823","2",,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-02","Marin","37.83184166666667","-122.53770666666668","w. of bunker"
+"gx17607",,,"2014-08-24","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-08-24","Marin","37.832174333333334","-122.54056583333335","sothwest slope along coastal trail 45m from gate"
+"gx18588",,,"2008-10-05","Carpobrotus edulis",,"National Park Service [SFAN]","2008-10-05","Marin","37.824585000000006","-122.52977333333335","east of point bonita ymca on terrace of battery wallace"
+"gx14384","2",,"2011-09-28","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-28","Marin","37.832016333333335","-122.5355005","w edge of parking kot"
+"gx16318","1",,"2013-06-17","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-06-17","Marin","37.83674966666667","-122.49000333333333","in coyote brush in clearing on hill"
+"gx11549","0",,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.832925","-122.54146833","coastal trail, 2x1.5m patch on cliff"
+"gx14396","1",,"2011-09-30","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-30","Marin","37.82434333333334","-122.50858416666668","fisherman's trail at beach"
+"gx17254","1",,"2014-05-21","Carpobrotus edulis","Joseph Aquila","National Park Service [SFAN]","2014-05-21","Marin","37.834167","-122.53342",
+"gx16412",,,"2013-09-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-09-04","Marin","37.83519","-122.53730667","south side of water tank"
+"gx12345","0",,"2008-10-05","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2008-10-05","Marin","37.824585000000006","-122.52977333333335","east of point bonita ymca on terrace of battery wallace"
+"gx16147",,,"2013-03-24","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-03-24","Marin","37.82441333333334","-122.52973333333333","battery wallace"
+"gx17802",,,"2014-11-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-04","Marin","37.82489422638674","-122.52615537612711","below trail"
+"gx18076",,,"2014-10-02","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-10-02","Marin","37.829323333333335","-122.52227900000001","ft barry quarry parking"
+"gx13916","2",,"2011-05-26","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-26","San Francisco","37.802265166666665","-122.47779100000002","west of coastal  trail"
+"gx12595","1",,"2009-05-06","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2009-05-06","Marin","37.93426","-122.69646166666668","sw side of 1 at mm16.95"
+"gx11760","0",,"2007-09-06","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-09-06","San Mateo","37.63687945","-122.47685141666668","6 m east of trail"
+"gx14751",,,"2012-01-27","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2012-01-27","Marin","37.822968168755196","-122.52812449223246","south west corner of battery wallace west meadow"
+"gx12748","1",,"2009-07-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-02","Marin","37.82742433333333","-122.49985166666669","hawk hill"
+"gx14273","2",,"2011-08-22","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2011-08-22","Marin","37.838003864574794","-122.54276365156721","on south edge of Bunker loop rd"
+"gx1891",,,"2007-10-13","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-10-13","Marin","37.993525","-122.97352666666666","west, uphill from boathouse."
+"gx3326",,,"2008-10-22","Carpobrotus edulis","Melissa Potter","National Park Service [SFAN]","2008-10-22","Marin","38.1186505","-122.95439883333331","ALONG LAGOON"
+"gx6441",,,"2011-09-27","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-09-27","Marin","37.910538833333334","-122.65849266666667","w of hwt 1"
+"gx6437",,,"2011-09-27","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-09-27","Marin","37.911035833333344","-122.65979366666669","w of hwy 1"
+"gx8578",,,"2013-01-16","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-01-16","Marin","37.91386299999999","-122.66460750000002","WEST OF HIGHWAY 1"
+"gx10495",,,"2014-08-04","Carpobrotus edulis","Emily Huizenga","National Park Service [SFAN]","2014-08-04","Marin","37.91463083333333","-122.66528600000002","w side of hwy 1"
+"gx10490",,,"2014-08-04","Carpobrotus edulis","Emily Huizenga","National Park Service [SFAN]","2014-08-04","Marin","37.91802983333333","-122.66903516666667","w side of hwy 1"
+"gx6090",,,"2011-09-08","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-09-08","Marin","37.921093333333324","-122.67155000000001","w of hwy 1"
+"gx3440",,,"2013-07-09","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-07-09","Marin","37.92174516666666","-122.67309966666667","along lagoon"
+"gx10487",,,"2014-08-04","Carpobrotus edulis","Emily Huizenga","National Park Service [SFAN]","2014-08-04","Marin","37.924118666666665","-122.67506466666667","w side of hwy 1"
+"gx10482",,,"2014-08-04","Carpobrotus edulis","Emily Huizenga","National Park Service [SFAN]","2014-08-04","Marin","37.92520533333334","-122.6767015","w side of hwy 1"
+"gx6081",,,"2011-09-08","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-09-08","Marin","37.92547666666667","-122.67954499999999","w of hwy 1"
+"gx3667",,,"2009-05-06","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2009-05-06","Marin","37.93426","-122.69646166666668","sw side of 1 at mm16.95"
+"gx16986","21",,"2014-04-09","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2014-04-09","Marin","37.83408606764864","-122.53719266589232","20 m from trail"
+"gx16146",,,"2013-03-24","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-03-24","Marin","37.824861067409586","-122.5261413250745","uphill n in cypress ne of camp"
+"gx11548","0",,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83200667","-122.54149167","coastal trail (scenic), on cliff, 9x9m patch"
+"gx11546","0",,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.832275","-122.54092","coastal trail (scenic), 9x9m patch"
+"gx11536","0",,"2006-08-27","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-08-27","Marin","37.83338166666667","-122.54401000000001","social Coastal trailside"
+"gx11597","0",,"2006-12-31","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2006-12-31","Marin","37.824585000000006","-122.52977333333335","east of point bonita ymca on terrace of battery wallace"
+"gx11655","0",,"2007-04-17","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-04-17","San Mateo","37.613236666666666","-122.45942166666667","parking lot behind building"
+"gx11599","0",,"2006-12-31","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2006-12-31","Marin","37.82461666666667","-122.53096333333333","RGJIYDR"
+"gx11538","0",,"2006-08-27","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-08-27","Marin","37.83338166666667","-122.54401000000001","social Coastal trailside"
+"gx14385","20",,"2011-09-28","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-28","Marin","37.833910333333336","-122.5333975","on trail from nursery to maintenance yard"
+"gx11754","0",,"2007-09-06","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-09-06","San Mateo","37.64139146021169","-122.48363853326268","small patch"
+"gx9462",,,"2013-09-03","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-09-03","Marin","37.89811483333334","-122.64291116666666","north side of parking lot on path leading to beach"
+"gx1819",,,"2007-03-27","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-03-27","Marin","37.862953","-122.585513",
+"gx16451","6",,"2013-07-01","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-07-01","Marin","37.85901166666667","-122.575048","dune under stairs"
+"gx5378",,,"2011-05-19","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-19","Marin","37.84605764371557","-122.48916803546922","upslope from sca trail"
+"gx5376",,,"2011-05-19","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-19","Marin","37.84620585135524","-122.4893201953126","upslope from sca trail"
+"gx2945",,,"2008-08-13","Carpobrotus edulis","Zach Barbane","National Park Service [SFAN]","2008-08-13","Marin","37.84240833333333","-122.54065000000001","small patch on rocks"
+"gx1254",,,"2006-09-28","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-09-28","Marin","37.84254667","-122.53301167",
+"gx5729",,,"2011-07-25","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-07-25","Marin","37.842558333333336","-122.47763166666667","corner of east rd and sanitary district"
+"gx5736",,,"2011-07-25","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-07-25","Marin","37.84353666666667","-122.47795500000001","e of east rd"
+"gx5741",,,"2011-07-25","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-07-25","Marin","37.84415666666666","-122.47785083333333","e of east rd"
+"gx8048",,,"2012-08-29","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2012-08-29","Marin","37.84024431732683","-122.54554376416256","1 small patch removed 1m sq"
+"gx2960",,,"2008-08-18","Carpobrotus edulis","Zach Barbane","National Park Service [SFAN]","2008-08-18","Marin","37.84028316666666","-122.53525450000001","1 plant on trail, removed"
+"gx10713",,,"2014-10-27","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-10-27","Marin","37.83760149175978","-122.498706018508","backyard of 807 capehart on slopes heading south and east"
+"gx4955",,,"2010-11-08","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2010-11-08","Marin","37.83781750158787","-122.49816962693892","inbetween house (on lamoreaux) n mccullough rd next to gemo patch"
+"gx5898",,,"2011-08-22","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2011-08-22","Marin","37.838003864574794","-122.54276365156721","on south edge of Bunker loop rd"
+"gx8978",,,"2013-06-17","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-06-17","Marin","37.83674966666667","-122.49000333333333","in coyote brush in clearing on hill"
+"gx4132",,,"2009-11-23","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2009-11-23","Marin","37.83650551058813","-122.54708372160206","along the edge of eastern drop off in lower elevation"
+"gx15962",,,"2013-01-16","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-01-16","Marin","37.91386299999999","-122.66460750000002","WEST OF HIGHWAY 1"
+"gx3962",,,"2009-07-17","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-17","Marin","37.836211666666664","-122.50110833333336","smiley and menges st."
+"gx7417",,,"2012-06-28","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-06-28","Marin","37.835438","-122.53166483333332","hillside behind marine mammal building"
+"gx8318",,,"2012-09-21","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2012-09-21","Marin","37.83544166666667","-122.54314916666667","s side coastal trail"
+"gx8762",,,"2013-04-09","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-04-09","Marin","37.83563516899308","-122.54374542434371","n side of coastal trail"
+"gx9227",,,"2013-08-07","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-08-07","Marin","37.83566184947794","-122.54591435198977","ABOVE COASTAL TRAIL UTURN ON HILLSIDE TO SOUTH UNDER ROCK OUTCROPPING"
+"gx9921",,,"2014-04-22","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2014-04-22","Marin","37.835853500000006","-122.47400816666666","trail"
+"gx3965",,,"2009-07-17","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-17","Marin","37.83592066666666","-122.5006105","on both sides of cul de sac near back of 809B"
+"gx2373",,,"2008-06-28","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2008-06-28","Marin","37.83400167316653","-122.53773245687808","small patch, 1 square m, 15 m from trail."
+"gx1201",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83400333","-122.54489333","coastal trail, 20x10m patch"
+"gx1124",,,"2006-08-27","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-08-27","Marin","37.83402666666667","-122.54486999999999","coastal trail"
+"gx2371",,,"2008-06-28","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2008-06-28","Marin","37.83408606764864","-122.53719266589232","20 m from trail"
+"gx2372",,,"2008-06-28","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2008-06-28","Marin","37.83410216318955","-122.53774519323919","15 m north of trail small patch"
+"gx2370",,,"2008-06-28","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2008-06-28","Marin","37.83413779080341","-122.5370933465266","25 m north of trail"
+"gx10062",,,"2014-05-21","Carpobrotus edulis","Joseph Aquila","National Park Service [SFAN]","2014-05-21","Marin","37.834166833333335","-122.5334195","BETWEEN COASTAL Trail ROAD AND MAINTENANCE"
+"gx10108",,,"2014-05-21","Carpobrotus edulis","Joseph Aquila","National Park Service [SFAN]","2014-05-21","Marin","37.834167","-122.53342",
+"gx5053",,,"2011-03-28","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-03-28","Marin","37.8341856667","-122.5339078333","coastal trail"
+"gx1202",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83420333","-122.545145","on cliff, 8x1m linear along trail"
+"gx6458",,,"2011-09-27","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-27","Marin","37.8342436666667","-122.531824833333","n side maintenance yard"
+"gx11002",,,"2014-12-17","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-12-17","Marin","37.83433456752591","-122.53374433101358","roads maintenance yard"
+"gx10040",,,"2014-05-19","Carpobrotus edulis","Matt Unitis","National Park Service [SFAN]","2014-05-19","Marin","37.834336666666665","-122.53066133333333","MARINE MAMMAL DRAINAGE"
+"gx1205",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83467","-122.54675167","20x20m patch, near cliff, coatal trail (social)"
+"gx7418",,,"2012-06-28","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-06-28","Marin","37.834725999999996","-122.53162800000001","parking lot in ceanothus"
+"gx10811",,,"2014-09-24","Carpobrotus edulis",,"National Park Service [SFAN]","2014-09-24","Marin","37.834777243260184","-122.53379557632057","west slope of roads yard"
+"gx1204",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83478667","-122.546475","10x10m patch, on cliff in moist seep"
+"gx9235",,,"2013-08-07","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2013-08-07","Marin","37.83481056826015","-122.54769594987427","along both sides of dirt road"
+"gx2376",,,"2008-06-28","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2008-06-28","Marin","37.83508747347875","-122.53844055271747","on cliff wall"
+"gx7031",,,"2012-05-07","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-05-07","Marin","37.83514866666667","-122.54810499999999","east of trail"
+"gx7524",,,"2012-07-09","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-07-09","Marin","37.83516466666668","-122.53511266666668","0702"
+"gx9231",,,"2013-08-07","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-08-07","Marin","37.835184333333345","-122.54277450000001","ABOVE COASTAL TRAIL ROAD AT UTURN"
+"gx1247",,,"2006-09-28","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-09-28","Marin","37.83519","-122.53730667","south side of water tank"
+"gx6482",,,"2011-09-28","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-28","Marin","37.833910333333336","-122.5333975","on trail from nursery to maintenance yard"
+"gx9908",,,"2014-04-22","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2014-04-22","Marin","37.833915","-122.4748815","edge along rocky beach"
+"gx1242",,,"2006-09-28","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-09-28","Marin","37.83375667","-122.53460833",
+"gx5061",,,"2011-03-28","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-03-28","Marin","37.8337955","-122.53641833333334","coastal trail"
+"gx1198",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83334833","-122.54431833","on cliff, social trail"
+"gx9936",,,"2014-04-22","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2014-04-22","Marin","37.83335100000001","-122.48164416666667","TRAIL GG"
+"gx1127",,,"2006-08-27","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-08-27","Marin","37.83338166666667","-122.54401000000001","social Coastal trailside"
+"gx1126",,,"2006-08-27","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2006-08-27","Marin","37.833450000000006","-122.54455666666667","coastalsocial bluff"
+"gx1199",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.833465","-122.54404","HRT worksite, piles"
+"gx7016",,,"2012-05-03","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-05-03","Marin","37.8335315","-122.53854266666666","north of social trail from parking lot"
+"gx3995",,,"2009-07-17","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-17","Marin","37.83357833333333","-122.5328483333333","south side of road"
+"gx1200",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.833595","-122.54483833","on cliff, off of social trail"
+"gx7539",,,"2012-07-09","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-07-09","Marin","37.8326765","-122.53619933333333","above wall"
+"gx1195",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83287833","-122.54226","social trail, 2m2"
+"gx1190",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.832925","-122.54146833","coastal trail, 2x1.5m patch on cliff"
+"gx6514",,,"2011-09-29","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-29","Marin","37.8330937034827","-122.533056593299","n side Kirkpatrick road"
+"gx1234",,,"2006-09-28","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-09-28","Marin","37.83321667","-122.53526333","west side of trail, scattered"
+"gx1196",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.8325","-122.54240833",
+"gx1990",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.8325016","-122.54135","ALONG HILLSIDE"
+"gx5232",,,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-02","Marin","37.832163333333334","-122.53953216666665","w of bunker road by rodeo beach parking lot"
+"gx10540",,,"2014-08-24","Carpobrotus edulis",,"National Park Service [SFAN]","2014-08-24","Marin","37.832174333333334","-122.54056583333335","sothwest slope along coastal trail 45m from gate"
+"gx9716",,,"2013-11-03","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2013-11-03","Marin","37.83219116666668","-122.53811033333335","fort cronkhite at base of phone pole"
+"gx1187",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.832275","-122.54092","coastal trail (scenic), 9x9m patch"
+"gx4530",,,"2010-05-24","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2010-05-24","Marin","37.83209","-122.52634166666667","WEST SIDE OF BUNKER"
+"gx11676","0",,"2007-08-05","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-08-05","San Mateo","37.620165","-122.49228333333333","3 x 3 m patch"
+"gx11547","0",,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83188833","-122.540924","coastal trail (scenic) cliffside, 0.5 hectare patch"
+"gx15185","4",,"2012-07-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-07-02","San Francisco","37.79152066666667","-122.48379683333336","5 m south of trail"
+"gx5241",,,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-02","Marin","37.83184166666667","-122.53770666666668","w. of bunker"
+"gx5244",,,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-02","Marin","37.83184484021083","-122.53700663015327","w of bunker"
+"gx4528",,,"2010-05-24","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2010-05-24","Marin","37.83185383333335","-122.53076983333338","SOUTH SIDE OF BUNKER RD"
+"gx1188",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83188833","-122.540924","coastal trail (scenic) cliffside, 0.5 hectare patch"
+"gx5179",,,"2011-04-25","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-04-25","Marin","37.831571000000004","-122.53387816666667","lagoon trail"
+"gx15886",,,"2012-11-02","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2012-11-02","Marin","37.83049608434271","-122.53612404301431","REAR DUNE 100M EAST OF BRIDGE"
+"gx13659",,,"2011-02-06","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2011-02-06","Marin","37.82441333333334","-122.52973333333333","battery wallace"
+"gx17879",,,"2012-10-01","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2012-10-01","Marin","37.82456091795911","-122.52905500555924","west of battery wallace"
+"gx14371","20",,"2011-09-27","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-27","Marin","37.8342436666667","-122.531824833333","n side maintenance yard"
+"gx12454","130",,"2009-01-26","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2009-01-26","San Francisco","37.81877666666667","-122.53024166666667","LIGHTHOUSE TRAIL"
+"gx14493",,,"2010-09-06","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2010-09-06","Marin","37.82441333333334","-122.52973333333333","battery wallace"
+"gx11539","0",,"2006-08-27","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-08-27","Marin","37.83338166666667","-122.54401000000001","social Coastal trailside"
+"gx11537","0",,"2006-08-27","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-08-27","Marin","37.83338166666667","-122.54401000000001","social Coastal trailside"
+"gx3244",,,"2008-10-08","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2008-10-08","Marin","37.83071166666667","-122.52228333333332","base of planting site, above carex"
+"gx17727",,,"2014-09-22","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-09-22","Marin","37.824955410699886","-122.52864149820962","west side of battery Wallace"
+"gx3345",,,"2008-10-24","Carpobrotus edulis","Jennifer Jordan","National Park Service [SFAN]","2008-10-24","Marin","37.829443333333344","-122.48404166666663","bw road fence and kirby cove gate"
+"gx1164",,,"2006-09-10","Carpobrotus edulis","Andrea Williams","National Park Service [SFAN]","2006-09-10","Marin","37.82947999044543","-122.53424782767851","Rodeo Beach cliffs"
+"gx4845",,,"2010-08-25","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2010-08-25","Marin","37.82949833333333","-122.52783499999997","2 small patches south east of road to nike missile"
+"gx1178",,,"2006-09-10","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-10","Marin","37.82959297706858","-122.53022815342959","15 x 2.5 m , upslope from trail"
+"gx4712",,,"2010-07-19","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2010-07-19","Marin","37.82962350000001","-122.53026266666666","EAST SIDE OF LAGOON TRAIL"
+"gx9973",,,"2014-04-28","Carpobrotus edulis",,"National Park Service [SFAN]","2014-04-28","Marin","37.829815333333336","-122.52662266666667","RESIDENT RD"
+"gx2485",,,"2008-07-10","Carpobrotus edulis","Zach Barbane","National Park Service [SFAN]","2008-07-10","Marin","37.82938803043018","-122.48470811356317","few small patches near trail"
+"gx3867",,,"2009-07-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-02","Marin","37.82811266666668","-122.4991693333333","hawk hill"
+"gx1214",,,"2006-10-01","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-01","Marin","37.828685","-122.53497833","near rodeo beach"
+"gx2120",,,"2008-04-07","Carpobrotus edulis","Jennifer Jordan","National Park Service [SFAN]","2008-04-07","Marin","37.82899666666667","-122.53154","north of trail"
+"gx10892",,,"2014-10-02","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-10-02","Marin","37.829323333333335","-122.52227900000001","ft barry quarry parking"
+"gx3869",,,"2009-07-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-02","Marin","37.82742433333333","-122.49985166666669","hawk hill"
+"gx3866",,,"2009-07-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-02","Marin","37.82773316666668","-122.49956133333333","hawk hill"
+"gx14388","100",,"2011-09-29","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-29","Marin","37.8330937034827","-122.533056593299","n side Kirkpatrick road"
+"gx17779",,,"2014-10-27","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-10-27","Marin","37.83760149175978","-122.498706018508","backyard of 807 capehart on slopes heading south and east"
+"gx10199",,,"2014-06-05","Carpobrotus edulis","Joseph Aquila","National Park Service [SFAN]","2014-06-05","Marin","37.82685116666668","-122.5202945","TRAIL ALONG CONZELMAN"
+"gx9825",,,"2014-03-27","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2014-03-27","Marin","37.826863833333334","-122.49084533333335","bluffs at kirby cove beach"
+"gx5865",,,"2011-08-18","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-08-18","Marin","37.826372666666664","-122.51909966666668","e of conzelman by battery"
+"gx6769",,,"2012-03-01","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2012-03-01","Marin","37.822968168755196","-122.52812449223246","south west corner of battery wallace west meadow"
+"gx1255",,,"2006-10-11","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-11","Marin","37.82302666666667","-122.53330666666668","parking lot"
+"gx1522",,,"2007-02-25","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-02-25","Marin","37.82391500000001","-122.52739500000001","next to road"
+"gx10727",,,"2014-11-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-04","Marin","37.82398133333334","-122.52531233333332","below camp bicentennial"
+"gx6534",,,"2011-09-30","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-30","Marin","37.82434333333334","-122.50858416666668","fisherman's trail at beach"
+"gx1474",,,"2007-01-07","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2007-01-07","Marin","37.82440666666667","-122.52990833333334","pulled by HRT today  10x27m by tape"
+"gx10737",,,"2014-11-06","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-06","Marin","37.82440990497106","-122.52790002038012","top of battery wallace"
+"gx1471",,,"2007-01-07","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2007-01-07","Marin","37.82441333333334","-122.52973333333333","battery wallace"
+"gx1472",,,"2007-01-07","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2007-01-07","Marin","37.82441333333334","-122.52973333333333","pulled patch by hrt"
+"gx1473",,,"2007-01-07","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2007-01-07","Marin","37.82441333333334","-122.52973333333333","newly pulled 10x27m by hrt today"
+"gx10763",,,"2014-11-19","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-19","Marin","37.82456091795911","-122.52905500555924","west of battery wallace"
+"gx1534",,,"2007-02-25","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-02-25","Marin","37.82456143841227","-122.52734818268544","between, battery wallace and bicen camp, > 100m2, no asess"
+"gx1466",,,"2006-12-31","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2006-12-31","Marin","37.824585000000006","-122.52977333333335","east of point bonita ymca on terrace of battery wallace"
+"gx1467",,,"2006-12-31","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2006-12-31","Marin","37.82461666666667","-122.53096333333333","RGJIYDR"
+"gx10639",,,"2014-11-10","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-10","Marin","37.824653419730126","-122.53034849666818","battery alexander"
+"gx1312",,,"2006-10-12","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-10-12","Marin","37.82483508412095","-122.5122249650785","ridgetop"
+"gx8730",,,"2013-03-24","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-03-24","Marin","37.824861067409586","-122.5261413250745","uphill n in cypress ne of camp"
+"gx8729",,,"2013-03-25","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2013-03-25","Marin","37.824873000000004","-122.52614800000002","camp bic. graham gotb4 patches onbowl area above sites"
+"gx2654",,,"2008-07-24","Carpobrotus edulis","Zach Barbane","National Park Service [SFAN]","2008-07-24","Marin","37.82489422638674","-122.52615537612711","below trail"
+"gx10743",,,"2014-09-22","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-09-22","Marin","37.824955410699886","-122.52864149820962","west side of battery Wallace"
+"gx1070",,,"2006-08-13","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-08-13","Marin","37.82497167","-122.52679667",
+"gx10729",,,"2014-11-04","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-11-04","Marin","37.824974499999996","-122.52712783333334","slope above camp bicentennial"
+"gx2658",,,"2008-07-24","Carpobrotus edulis","Zach Barbane","National Park Service [SFAN]","2008-07-24","Marin","37.82521916666667","-122.5272865","roadside"
+"gx1065",,,"2006-08-13","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-08-13","Marin","37.82547","-122.52469167","bicennntenial camp"
+"gx17077","1",,"2014-03-27","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2014-03-27","Marin","37.826863833333334","-122.49084533333335","bluffs at kirby cove beach"
+"gx16637",,,"2013-08-07","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2013-08-07","Marin","37.83481056826015","-122.54769594987427","along both sides of dirt road"
+"gx17826",,,"2014-07-25","Carpobrotus edulis","Habitat Restoration Team","National Park Service [SFAN]","2014-07-25","Marin","37.824653419730126","-122.53034849666818","battery alexander"
+"gx4237",,,"2010-02-17","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2010-02-17","Marin","37.84851866666666","-122.49189316666667","in cypress removal site below wolf ridge road25 m"
+"gx5233",,,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-02","Marin","37.83210000000001","-122.53917833333335","rodeo beach end of bunker road"
+"gx1189",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83200667","-122.54149167","coastal trail (scenic), on cliff, 9x9m patch"
+"gx5178",,,"2011-04-25","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-04-25","Marin","37.83136233333334","-122.53441766666668","lagoon trail"
+"gx11677","0",,"2007-08-05","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-08-05","San Mateo","37.61996333333333","-122.492065","40 x 5 m"
+"gx9029",,,"2013-07-01","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-07-01","Marin","37.85901166666667","-122.575048","dune under stairs"
+"gx4017",,,"2009-07-24","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-24","Marin","37.836161000000004","-122.50215333333334","west side of mccullough rd"
+"gx1197",,,"2006-09-24","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-09-24","Marin","37.83266","-122.543085","socail trail, .25 hectare patch"
+"gx6478",,,"2011-09-28","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2011-09-28","Marin","37.832016333333335","-122.5355005","w edge of parking kot"
+"gx5239",,,"2011-05-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-02","Marin","37.831979999999994","-122.53809333333332","w. of bunker road"
+"gx3983",,,"2009-07-17","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2009-07-17","Marin","37.831498333333336","-122.5258283333333","near lagoon"
+"gx8541",,,"2012-11-08","Carpobrotus edulis",,"National Park Service [SFAN]","2012-11-08","Marin","37.83049608434271","-122.53612404301431","REAR DUNE 100M EAST OF BRIDGE"
+"mg9725","11 - 50",,"2015-04-01","Carpobrotus edulis","Patrick Nicholson","San Francisco Bay Area Network of National Parks","2015-04-01","Marin","37.8322957","-122.5407046","South of coastal trail near surfer lot in fenced off slope."
+"gx10176",,,"2014-06-05","Carpobrotus edulis","Joseph Aquila","National Park Service [SFAN]","2014-06-05","San Francisco","37.821259833333336","-122.52961900000001","POINT BONITA LIGHTHOUSE TRAIL"
+"gx1296",,,"2006-10-11","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-11","San Francisco","37.82101284125435","-122.53048586353995","20m2 area"
+"gx1280",,,"2006-10-11","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-11","San Francisco","37.82095817780945","-122.52947175485869","8x5m patch,ocean side trail"
+"gx1295",,,"2006-10-11","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-11","San Francisco","37.82092666666667","-122.53014499999999","4x6m patch"
+"gx1279",,,"2006-10-11","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-11","San Francisco","37.820771666666666","-122.53000166666668","1m2 patch, isolated"
+"gx1283",,,"2006-10-11","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-10-11","San Francisco","37.81966666666667","-122.530195","2x3m patch by cliff"
+"gx1271",,,"2006-10-11","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-11","San Francisco","37.81973333333334","-122.53071833333334","on cliff, several small clumps"
+"gx1285",,,"2006-10-11","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-11","San Francisco","37.8193112975814","-122.52994499070564","10m2 patch"
+"gx1469",,,"2006-12-31","Carpobrotus edulis","Maria Alvarez","National Park Service [SFAN]","2006-12-31","San Francisco","37.81877666666667","-122.53024166666667","LIGHTHOUSE TRAIL"
+"gx1290",,,"2006-10-11","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-10-11","San Francisco","37.81867833333334","-122.53027666666667","both side trail, 15m2 patch"
+"gx1468",,,"2006-12-31","Carpobrotus edulis","Maria Avarez","National Park Service [SFAN]","2006-12-31","San Francisco","37.81870666666667","-122.52996166666665","LIGHGTHOUSAE TRAIL"
+"gx8256",,,"2012-09-17","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-09-17","San Francisco","37.806002","-122.46988683333335","at intersection of long ave."
+"gx5410",,,"2011-05-26","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-26","San Francisco","37.80454266666667","-122.47688466666666","south of coastal trail on hill top"
+"gx5414",,,"2011-05-26","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-26","San Francisco","37.80399438335857","-122.47691007826727","south of coastal trail"
+"gx5428",,,"2011-05-26","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-26","San Francisco","37.802265166666665","-122.47779100000002","west of coastal  trail"
+"gx5436",,,"2011-05-26","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-05-26","San Francisco","37.79773333333333","-122.47992333333335","ne of coastal  trail"
+"gx7426",,,"2012-07-02","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-07-02","San Francisco","37.79152066666667","-122.48379683333336","5 m south of trail"
+"gx7635",,,"2012-07-23","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-07-23","San Francisco","37.787051500000004","-122.50118233333333","on inland side of slope"
+"gx9353",,,"2013-08-22","Carpobrotus edulis","Eric Wrubel","National Park Service [SFAN]","2013-08-22","San Francisco","37.784578712291214","-122.50798858323742","n of trail"
+"gx1944",,,"2007-07-10","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-07-10","San Francisco","37.713436","-122.499418",
+"gx1943",,,"2007-07-10","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2007-07-10","San Francisco","37.712481","-122.50147",
+"gx1986",,,"2007-09-05","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-09-05","San Mateo","37.640627835477495","-122.48386364806873","both sides of fence"
+"gx4320",,,"2010-03-20","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2010-03-20","San Mateo","37.64064848581035","-122.47860417613246","25M OFF TRAIL"
+"gx4322",,,"2010-03-20","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2010-03-20","San Mateo","37.640858","-122.48073616666666","TRAILSIDE"
+"gx1987",,,"2007-09-05","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-09-05","San Mateo","37.64139146021169","-122.48363853326268","small patch"
+"gx4314",,,"2010-03-20","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2010-03-20","San Mateo","37.63880333333333","-122.47678666666664","20M OFF MAIN RD"
+"gx4313",,,"2010-03-20","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2010-03-20","San Mateo","37.63825833333333","-122.47664499999999","4x3 patch on East side of paved trail"
+"gx1995",,,"2007-09-06","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-09-06","San Mateo","37.63687945","-122.47685141666668","6 m east of trail"
+"gx1877",,,"2007-10-11","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2007-10-11","San Mateo","37.636095","-122.47421666666666","near hydrant"
+"gx4617",,,"2010-06-10","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2010-06-10","San Mateo","37.628584999999994","-122.46369666666668","SKYLINE COLLEGE SIGN"
+"gx3164",,,"2008-09-30","Carpobrotus edulis","Jennifer Jordan","National Park Service [SFAN]","2008-09-30","San Mateo","37.62838","-122.46354666666664","parking lot"
+"gx1355",,,"2006-10-15","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-10-15","San Mateo","37.620165","-122.49228333333333","3 x 3 m patch"
+"gx1373",,,"2006-10-15","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-10-15","San Mateo","37.61995666666667","-122.49272166666667","10 x 5 m"
+"gx1367",,,"2006-10-15","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-10-15","San Mateo","37.61996333333333","-122.492065","40 x 5 m"
+"gx1371",,,"2006-10-15","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2006-10-15","San Mateo","37.61996833333333","-122.49250333333333","20 x 10 m"
+"gx10246",,,"2014-06-12","Carpobrotus edulis","Emily Huizenga","National Park Service [SFAN]","2014-06-12","San Mateo","37.61972200000001","-122.49054300000003","s side of fire rd"
+"gx1976",,,"2006-08-31","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-08-31","San Mateo","37.619705","-122.493175",
+"gx5091",,,"2011-03-31","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2011-03-31","San Mateo","37.61939816666666","-122.48765666666668","mori cove trail"
+"gx9092",,,"2013-07-18","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2013-07-18","San Mateo","37.61878516666667","-122.48745750000003","mori point trail"
+"gx1968",,,"2006-08-31","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-08-31","San Mateo","37.61889","-122.48815",
+"gx7216",,,"2012-06-14","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-06-14","San Mateo","37.61847666666666","-122.49548016666668","at base of  hillside"
+"gx1981",,,"2006-08-31","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2006-08-31","San Mateo","37.618506","-122.486",
+"gx1863",,,"2007-10-03","Carpobrotus edulis","Jim Dougherty","National Park Service [SFAN]","2007-10-03","San Mateo","37.618516666666665","-122.48582166666665","mostly N of Mori Pt trail"
+"gx1585",,,"2007-04-17","Carpobrotus edulis","Elizabeth Speith","National Park Service [SFAN]","2007-04-17","San Mateo","37.613236666666666","-122.45942166666667","parking lot behind building"
+"gx7292",,,"2012-06-21","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-06-21","San Mateo","37.5317555","-122.49898250000001","big patch right of trail"
+"gx7358",,,"2012-06-26","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-06-26","San Mateo","37.53123733333334","-122.49903766666667","under pine"
+"gx7390",,,"2012-06-26","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-06-26","San Mateo","37.52673716666668","-122.50578000000002","left side of trail near intersection"
+"gx7564",,,"2012-07-16","Carpobrotus edulis","Weed Watcher Volunteer","National Park Service [SFAN]","2012-07-16","San Mateo","37.51535","-122.46129","Roadside"
+"mcp4525","0",,"2013-09-06","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-09-06","Marin","37.91214067","-122.68168857",
+"mcp4523","0",,"2013-08-17","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-08-17","Marin","37.91207706","-122.68134412",
+"mcp4519","0",,"2013-08-02","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-08-02","Marin","37.91203717","-122.68133202",
+"mcp4515","0",,"2013-07-19","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-07-19","Marin","37.91205595","-122.68030013",
+"mcp4516","0",,"2013-07-20","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-07-20","Marin","37.91186174","-122.68071983",
+"mcp4513","0",,"2013-07-05","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-07-05","Marin","37.91193595","-122.68060408",
+"mcp4501","0",,"2013-04-20","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-04-20","Marin","37.91178477","-122.68097746",
+"mcp158","1+",,"2013-06-07","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-06-07","Marin","37.91120186","-122.68303871",
+"mcp159","1+",,"2013-08-02","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-08-02","Marin","37.9123918","-122.68177935",
+"mcp157","1+",,"2013-04-20","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-04-20","Marin","37.91201748","-122.68042516",
+"mcp150","1+",,"2005-12-15","Carpobrotus edulis","Pete Frye","MCOSD","2005-12-15","Marin","37.91833545","-122.66999114",
+"mcp151","1+",,"2005-12-20","Carpobrotus edulis","Pete Frye","MCOSD","2005-12-20","Marin","37.91428921","-122.66510164",
+"mcp152","1+",,"2005-12-20","Carpobrotus edulis","Pete Frye","MCOSD","2005-12-20","Marin","37.90873101","-122.65527234",
+"mcp153","1+",,"2003-08-08","Carpobrotus edulis","Lisa DiGirolamo","MCOSD","2003-08-08","Marin","37.88962456","-122.52318623",
+"mcp154","1+",,"2013-06-28","Carpobrotus edulis","Pete Frye","MCOSD","2013-06-28","Marin","37.88117939","-122.45449851",
+"mcp155","1+",,"2013-11-25","Carpobrotus edulis","Pete Frye","MCOSD","2013-11-25","Marin","38.12778575","-122.52881651",
+"mcp142","1+",,"2003-04-03","Carpobrotus edulis","Lisa DiGirolamo","MCOSD","2003-04-03","Marin","38.01757993","-122.51152459",
+"mcp143","1+",,"2003-04-03","Carpobrotus edulis","Lisa DiGirolamo","MCOSD","2003-04-03","Marin","38.01564348","-122.50936509",
+"mcp144","1+",,"2003-04-03","Carpobrotus edulis","Lisa DiGirolamo","MCOSD","2003-04-03","Marin","38.01763506","-122.51348672",
+"mcp145","1+",,"2003-08-08","Carpobrotus edulis","Lisa DiGirolamo","MCOSD","2003-08-08","Marin","37.89189628","-122.52507527",
+"mcp146","1+",,"2003-08-08","Carpobrotus edulis","Lisa DiGirolamo","MCOSD","2003-08-08","Marin","37.8873126","-122.52138482",
+"mcp147","1+",,"2003-08-08","Carpobrotus edulis","Lisa DiGirolamo","MCOSD","2003-08-08","Marin","37.88714814","-122.52419101",
+"mcp148","1+",,"2005-12-20","Carpobrotus edulis","Pete Frye","MCOSD","2005-12-20","Marin","37.93002083","-122.69639247",
+"mcp149","1+",,"2005-12-15","Carpobrotus edulis","Pete Frye","MCOSD","2005-12-15","Marin","37.92949022","-122.68501676",
+"mcp4344","0",,"2013-07-01","Carpobrotus edulis","Monica Delmartini","MCOSD","2013-07-01","Marin","37.88120255","-122.45450812",
+"mcp4083","2.0",,"2012-12-30","Carpobrotus edulis","Kelsey Setliff","MCOSD","2012-12-30","Marin","38.01558829","-122.50989947",
+"mcp2257","0",,"2012-04-10","Carpobrotus edulis","Pete Frye","MCOSD","2012-04-10","Marin","38.01757993","-122.51152459",
+"mcp2258","0",,"2012-04-10","Carpobrotus edulis","Pete Frye","MCOSD","2012-04-10","Marin","38.01564348","-122.50936509",
+"mcp2259","0",,"2012-04-10","Carpobrotus edulis","Pete Frye","MCOSD","2012-04-10","Marin","38.01763506","-122.51348672",
+"mcp2260","0",,"2012-04-10","Carpobrotus edulis","Pete Frye","MCOSD","2012-04-10","Marin","38.01627462","-122.51005628",
+"mcp2261","0",,"2012-04-10","Carpobrotus edulis","Pete Frye","MCOSD","2012-04-10","Marin","38.01517116","-122.50930813",
+"mcp156","1+",,"2013-04-20","Carpobrotus edulis","Tori Bohlen","MCOSD","2013-04-20","Marin","37.91126829","-122.68147044",
+"mcp141","1+",,"2003-08-08","Carpobrotus edulis","Lisa DiGirolamo","MCOSD","2003-08-08","Marin","37.88563558","-122.52170293",
+"mcp5031","1+",,"2004-03-15","Carpobrotus edulis","staff","MCOSD","2004-03-15","Marin","37.91903625","-122.49505934",
+"mcp5032","0",,"2004-02-09","Carpobrotus edulis","staff","MCOSD","2004-02-09","Marin","38.01517116","-122.50930813",
+"mcp5033","0",,"2004-02-09","Carpobrotus edulis","staff","MCOSD","2004-02-09","Marin","38.01627462","-122.51005628","COVERED WITH TARP IN 2003"
+"mcp5034","1+",,"2005-12-20","Carpobrotus edulis","staff","MCOSD","2005-12-20","Marin","37.92709579","-122.69542673","2 small patches about 3 m^2 each"
+"po2722","1",,"2015-03-04","Carpobrotus edulis","Patrick Nicholson",,"2015-03-04","Marin","37.82949833333333","-122.52783499999997","south east of field road where road curves near nike missile"
+"GG692","1+",,"2002-05-22","Carpobrotus edulis","Tim Doherty","Presidio Natural Resources","2002-05-22","San Francisco","37.793768","-122.477743","Southwest Dunes"
+"GG690","1+",,"2002-05-22","Carpobrotus edulis","Tim Doherty;  Marie Fontaine;  Emily Magnaghi","Presidio Natural Resources","2002-05-22","San Francisco","37.793768","-122.477743","Southwest Dunes"
+"GG209","1+",,"2002-05-20","Carpobrotus edulis","Jen Adler;  Andrew Baker","Presidio Natural Resources","2002-05-20","San Francisco","37.78798","-122.477296","Lobos Creek Valley; Remnant Dunes"
+"GG208","1+",,"2002-05-20","Carpobrotus edulis","Jen Adler;  Andrew Baker","Presidio Natural Resources","2002-05-20","San Francisco","37.78817","-122.479645","Lobos Creek Valley; New Dunes"
+"GG447","1+",,"2001-09-27","Carpobrotus edulis","Michael Chasse;  Marie Fontaine;  Ami Brown","Presidio Natural Resources","2001-09-27","San Francisco","37.794101","-122.455672","Tennessee Hollow; Central Tributary"
+"GG446","1+",,"2001-09-27","Carpobrotus edulis","Michael Chasse;  Marie Fontaine;  Ami Brown","Presidio Natural Resources","2001-09-27","San Francisco","37.796368","-122.454815","Tennessee Hollow"
+"GG450","1+",,"2001-09-20","Carpobrotus edulis","Michael Chasse;  Marie Fontaine;  Emily Magnaghi","Presidio Natural Resources","2001-09-20","San Francisco","37.794101","-122.455672","Tennessee Hollow; Central Tributary"
+"GG428","1+",,"2001-09-13","Carpobrotus edulis","Michael Chasse;  Emily Magnaghi;  Ami Brown","Presidio Natural Resources","2001-09-13","San Francisco","37.794541","-122.453329","Tennessee Hollow; Eastern Tributary"
+"GG462","1+",,"2001-08-30","Carpobrotus edulis","Michael Chasse; Marie Fontaine","Presidio Natural Resources","2001-08-30","San Francisco","37.79839","-122.44739","Presidio Gate"
+"GG495","1+",,"2001-08-29","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","2001-08-29","San Francisco","37.7889","-122.46889","Golf Course West"
+"GG497","1+",,"1997-05-07","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","1997-05-07","San Francisco","37.795363","-122.475699","Rob Hill; Communications Building"
+"GG498","1+",,"1997-05-07","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","1997-05-07","San Francisco","37.795358","-122.474552","Rob Hill; Top of Battery"
+"GG488","1+",,"1997-04-01","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","1997-04-01","San Francisco","37.793768","-122.477743","Southwest Dunes"
+"GG571","1+",,"1995-05-01","Carpobrotus edulis","Mike Vasey","Presidio Natural Resources","1995-05-01","San Francisco","37.796458","-122.478599","Southwest Dunes; East of Lincoln"
+"GG183","1+",,"1994-07-27","Carpobrotus edulis","Eva Gnotkopp;  Ellen Fusco","Presidio Natural Resources","1994-07-27","San Francisco","37.791101","-122.473969","Presidio Hills"
+"GG130","1+",,"1994-07-27","Carpobrotus edulis","Ellen Fusco;  Eva Gnotkopp","Presidio Natural Resources","1994-07-27","San Francisco","37.791101","-122.473969","Presidio Hills"
+"GG321","1+",,"1994-06-06","Carpobrotus edulis","Maria Alvarez","Presidio Natural Resources","1994-06-06","San Francisco","37.800291","-122.471132","Dragonfly Creek"
+"gr63","1+",,"1997-01-01","Carpobrotus edulis","Hrusa, G.F.","G.F. Hrusa checklists","1997-01-01","Alameda","37.81667","-122.3","Oakland Army Base East Bay Region; Oakland Army Base spit tip at base of Bay Bridge."
+"GG307","1+",,"1994-06-26","Carpobrotus edulis","Lisa Meunier;  Ellen Fusco;  Eva Gnotkopp","Presidio Natural Resources","1994-06-26","San Francisco","37.791101","-122.473969","Presidio Hills"
+"GG213","1+",,"1995-06-16","Carpobrotus edulis","Joe Cannon","Presidio Natural Resources","1995-06-16","San Francisco","37.8","-122.468","Reservoir Cultural Plantation"
+"GG126","1+",,"1994-06-01","Carpobrotus edulis","Dale Smith;  Pete Holloran;  Ingrid Cabada","Presidio Natural Resources","1994-06-01","San Francisco","37.793768","-122.477743","Southwest Dunes"
+"GG124","1+",,"1994-06-01","Carpobrotus edulis","Dale Smith;  Pete Holloran;  Ingrid Cabada","Presidio Natural Resources","1994-06-01","San Francisco","37.7918","-122.483107","Baker Beach"
+"GG121","1+",,"1994-06-01","Carpobrotus edulis","Dale Smith;  Ingrid Cabada","Presidio Natural Resources","1994-06-01","San Francisco","37.798079","-122.478292","WW II Memorial"
+"ce929","1+",,"2014-07-18","Carpobrotus edulis","Mike Perlmutter",,"2014-07-18","Alameda","37.795283","-122.261505","Lake Merritt Channel Edges of Lake Merritt Channel/Channel Park."
+"GG117","1+",,"1994-06-01","Carpobrotus edulis","Dale Smith;  Ingrid Cabada;  Pete Holloran","Presidio Natural Resources","1994-06-01","San Francisco","37.797625","-122.477489","World War II; Sunset Scrub"
+"GG116","1+",,"1994-05-22","Carpobrotus edulis","Dale Smith;  Ingrid Cabada;  Pete Holloran","Presidio Natural Resources","1994-05-22","San Francisco","37.79664","-122.47878","Dune Corridor East of Lincoln"
+"GG115","1+",,"1994-06-01","Carpobrotus edulis","Dale Smith;  Ingrid Cabada;  Pete Holloran","Presidio Natural Resources","1994-06-01","San Francisco","37.7918","-122.483107","Baker Beach"
+"GG671","1+",,"1994-06-16","Carpobrotus edulis","Sharon Farrell;  Wende Reulaender","Presidio Natural Resources","1994-06-16","San Francisco","37.795427","-122.475733","Rob Hill"
+"GG669","1+",,"1994-06-13","Carpobrotus edulis","Sharon Farrell;  Sue Gardner","Presidio Natural Resources","1994-06-13","San Francisco","37.79196","-122.45262","Julius Khan Playground"
+"GG670","1+",,"1994-06-11","Carpobrotus edulis","Sharon Farrell;  Sue Gardner","Presidio Natural Resources","1994-06-11","San Francisco","37.794101","-122.455672","Tennessee Hollow; Central Tributary"
+"GG51","1+",,"1994-05-09","Carpobrotus edulis","Arnie Peterson","Presidio Natural Resources","1994-05-09","San Francisco","37.793259","-122.458813","Inspiration Point"
+"GG50","1+",,"1994-05-09","Carpobrotus edulis","Arnie Peterson;  Sue Smith","Presidio Natural Resources","1994-05-09","San Francisco","37.794934","-122.460471","Tennessee Hollow; Western Tributary"
+"gr7951","1+",,"2000-04-04","Carpobrotus edulis","Wilma Follette et al.","Marin CNPS","2000-04-04","Marin","38.1087","-122.8498","Tomales Bay State Park, Millerton Point"
+"gr7928","1+",,"2004-05-30","Carpobrotus edulis","Follette et al.","Marin CNPS","2004-05-30","Marin","38.251","-122.964","Dillon Beach, Lawsons Landing"
+"gr7920","1+",,"2005-07-19","Carpobrotus edulis","Doreen Smith et al.","Marin CNPS","2005-07-19","Marin","38.111863","-122.944178","Abbots Lagoon Abbots Lagoon public trail, Pt Reyes"
+"gr7927","1+",,"2005-02-17","Carpobrotus edulis","Doreen Smith et al.","Marin CNPS","2005-02-17","Marin","37.99","-122.97","Chimney Rock, Pt Reyes"
+"gr7943","1+",,"2005-03-10","Carpobrotus edulis","Dorren Smith et al.","Marin CNPS","2005-03-10","Marin","37.94","-122.74","Palomarin, Pt Reyes Palomarin to Bass Lk, Pt Reyes"
+"gr13889","1+",,"2007-01-01","Carpobrotus edulis","Toni Corelli","State Park Volunteer","2007-01-01","San Mateo","37.2611","-122.404","Pescadero Marsh Natural Preserve Pescadero Marsh Natural Preserve, Pescadero State Beach"
+"ce897","1+",,"2012-12-11","Carpobrotus edulis","Toni Corelli","CNPS Santa Clara Valley Chapter","2012-12-11","San Mateo","37.669588","-122.495241","Mussel Rock Park Daly City, California"
+"gr13888","1+",,"2008-01-01","Carpobrotus edulis","Toni Corelli","Toni Corelli, Botanist","2008-01-01","San Mateo","37.539949","-122.404861","San Francisco Peninsula Watershed San Mateo County"
+"gr13887","1+",,"2001-01-01","Carpobrotus edulis","Toni Corelli","Santa Clara Valley Chapter CNPS","2001-01-01","San Mateo","37.56931","-122.499918","Montara Mountain, San Mateo County Includes Devil's Slide/McNee Ranch State Park/San Pedro County Park/ Pedro Point Headlands/and part of San Francisco Peninsula Watershed"
+"ce48","1+",,"2009-01-01","Carpobrotus edulis","W Follette, G de Nevers, R Peterson,  C Weiske","Audubon Canyon Ranch","2009-01-01","Marin","37.931719","-122.676773","Bolinas Lagoon Preserve"
+"ce207","1+",,"2003-09-05","Carpobrotus edulis","Wilde Legard","East Bay Regional Park District","2003-09-05","Alameda","37.764879","-122.117843","Anthony Chabot Regional Park"
+"ce231","1+",,"2005-01-01","Carpobrotus edulis","Juan Ochoa, Christopher Campbell, and Paul Pribor","San Francisco State University","2005-01-01","San Francisco","37.723308","-122.497987","Flora of Lake Merced"
+"ce324","1+",,"2005-07-01","Carpobrotus edulis","Doreen Smith, Wilma Follette, Rosamund Day","Marin CNPS","2005-07-01","Marin","37.994268","-122.487258","China Camp State Park"
+"sfw54","1+",,"2009-06-22","Carpobrotus edulis","Michael Chasse","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.790681","-122.456856","Southeast Dunes"
+"sfw53","1+",,"2006-02-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA;  SNRAMP2006","2006-02-01","San Francisco","37.753881","-122.470872","Rock Outcrop"
+"sfw52","1+",,"2009-06-22","Carpobrotus edulis","Marie Fontaine","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.795544","-122.475834","Rob Hill"
+"sfw51","1+",,"2009-11-20","Carpobrotus edulis","Brett Stevenson","BAEDN; SFWMA","2009-11-20","San Francisco","37.791388","-122.473615","Presidio Hills"
+"sfw50","1+",,"2006-02-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA;  SNRAMP2006","2006-02-01","San Francisco","37.736295","-122.488804","Pine Lake Park"
+"sfw5","1+",,"2009-01-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA;  SNRAMP2006","2009-01-01","San Francisco","37.715288","-122.392689","Bayview Hill Natural Area"
+"sfw45","1+",,"2009-01-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA;  NPS Database","2009-01-01","San Francisco","37.742866","-122.507986","Ocean Beach"
+"sfw43","1+",,"2009-06-22","Carpobrotus edulis","Michael Chasse","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.796825","-122.480005","North Baker Beach"
+"sfw37","1+",,"2009-06-22","Carpobrotus edulis","Sandee Hufana","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.787988","-122.479113","Lobos Creek Valley"
+"sfw35","1+",,"2009-03-17","Carpobrotus edulis","staff","BAEDN; SFWMA;  GGNPC - plant list","2009-03-17","San Francisco","37.784139","-122.506259","Lands End Coastal Trail"
+"sfw33","1+",,"2006-02-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA;  SNRAMP2006","2006-02-01","San Francisco","37.720985","-122.491758","Lake Merced"
+"sfw30","1+",,"2009-06-22","Carpobrotus edulis","Mike Perlmutter","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.793304","-122.458813","Inspiration Point"
+"sfw3","1+",,"2009-06-22","Carpobrotus edulis","Michael Chasse","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.793232","-122.482836","Baker Beach"
+"sfw27","1+",,"2006-02-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA;  SNRAMP2006","2006-02-01","San Francisco","37.746571","-122.468654","Hawk Hill"
+"sfw26","1+",,"2006-02-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA;  SNRAMP2006","2006-02-01","San Francisco","37.756499","-122.471796","Grandview Park"
+"sfw25","1+",,"2006-02-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA;  SNRAMP2006","2006-02-01","San Francisco","37.750003","-122.470366","Golden Gate Heights"
+"sfw24","1+",,"2006-02-01","Carpobrotus edulis","Lisa Wayne","BAEDN; SFWMA","2006-02-01","San Francisco","37.740864","-122.442908","Glen Canyon Park"
+"sfw22","1+",,"2009-06-29","Carpobrotus edulis","Andy Kleinhesselink","BAEDN; SFWMA","2009-06-29","San Francisco","37.714356","-122.501424","Fort Funston"
+"sfw2","1+",,"2002-08-01","Carpobrotus edulis","Marie Fontane, Emily Magnaghi, and Shira Devane","BAEDN; SFWMA;  plant list from NPS personel","2002-08-01","San Francisco","37.825666","-122.42192","Alcatraz"
+"sfw18","1+",,"2009-06-22","Carpobrotus edulis","Sandee Hufana","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.8003","-122.471132","Dragonfly Creek"
+"sfw16","1+",,"2009-06-22","Carpobrotus edulis","Marie Fontaine","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.804927","-122.45791","Crissy Field"
+"sfw15","1+",,"2009-06-22","Carpobrotus edulis","Michael Chasse","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.803888","-122.467165","Crissy Bluffs"
+"sfw13","1+",,"2009-06-22","Carpobrotus edulis","Michael Chasse","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.803037","-122.478542","Coastal Bluffs"
+"sfw55","1+",,"2009-06-22","Carpobrotus edulis","Michael Chasse","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.793568","-122.477415","Southwest Dunes"
+"sfw6","1+",,"2006-02-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA","2006-02-01","San Francisco","37.743158","-122.414141","Bernal Heights Natural Area"
+"sfw61","1+",,"2006-02-01","Carpobrotus edulis","Jake Sigg","BAEDN; SFWMA;  SNRAMP2006","2006-02-01","San Francisco","37.751252","-122.447757","Twin Peaks"
+"sfw62","1+",,"2009-06-22","Carpobrotus edulis","Dale Smith","BAEDN; SFWMA;  NPS Database","2009-06-22","San Francisco","37.798173","-122.479166","World War II Memorial"
+"sfw63","1+",,"2007-01-16","Carpobrotus edulis","Mike Wood","BAEDN; SFWMA;  Wood 2007","2007-01-16","San Francisco","37.81124","-122.368229","Yerba Buena Island"
+"ce472","1+",,"2009-08-15","Carpobrotus edulis","Lech Naumovich",,"2009-08-15","Alameda","37.801291","-122.17556","Chadbourne Median Strip Median strip in Oakland Hills between Skyline Blvd and Chadbourne way.  Serpentinite soils, healthy Clarkia franciscana population.  Remarkable plants found on this site."
+"GG48","1+",,"1994-05-09","Carpobrotus edulis","Arnie Peterson;  Sue Smith","Presidio Natural Resources","1994-05-09","San Francisco","37.793259","-122.458813","Inspiration Point"
+"GG56","1+",,"1994-05-02","Carpobrotus edulis","Arnie Peterson","Presidio Natural Resources","1994-05-02","San Francisco","37.794934","-122.460471","Tennessee Hollow; Western Tributary"
+"GG90","1+",,"1994-05-23","Carpobrotus edulis","Brian Mattos;  Jake Sigg","Presidio Natural Resources","1994-05-23","San Francisco","37.800291","-122.471132","Dragonfly Creek"
+"GG185","1+",,"1994-05-22","Carpobrotus edulis","Eva Gnotkopp;  Tom Celebrezze;  Ellen Fusco","Presidio Natural Resources","1994-05-22","San Francisco","37.7889","-122.46889","Golf Course West"
+"GG119","1+",,"1994-05-20","Carpobrotus edulis","Dale Smith;  Ingrid Cabada","Presidio Natural Resources","1994-05-20","San Francisco","37.788087","-122.47918","Lobos Creek Valley"
+"GG125","1+",,"1994-05-01","Carpobrotus edulis","Dale Smith;  Pete Holloran;  Ingrid Cabada","Presidio Natural Resources","1994-05-01","San Francisco","37.788087","-122.47918","Lobos Creek Valley"
+"GG266","1+",,"1994-05-17","Carpobrotus edulis","Laura Nelson","Presidio Natural Resources","1994-05-17","San Francisco","37.794541","-122.453329","Tennessee Hollow; Eastern Tributary"
+"GG98","1+",,"1994-05-17","Carpobrotus edulis","Brian Mattos","Presidio Natural Resources","1994-05-17","San Francisco","37.804201","-122.476875","Coastal Bluffs; Coastal Defense Batteries"
+"GG128","1+",,"1994-05-13","Carpobrotus edulis","Dale Smith;  Pete Holloran;  Ingrid Cabada","Presidio Natural Resources","1994-05-13","San Francisco","37.791849","-122.47594","Southwest Dunes; Wherry Corridor"
+"GG127","1+",,"1994-05-13","Carpobrotus edulis","Dale Smith;  Pete Holloran;  Ingrid Cabada","Presidio Natural Resources","1994-05-13","San Francisco","37.79664","-122.47878","Dune Corridor East of Lincoln"
+"GG92","1+",,"1994-05-11","Carpobrotus edulis","Brian Mattos;  Jake Sigg","Presidio Natural Resources","1994-05-11","San Francisco","37.804547","-122.473419","Doyle Drive Natural Areas"
+"GG88","1+",,"1994-05-11","Carpobrotus edulis","Brian Mattos;  Jake Sigg","Presidio Natural Resources","1994-05-11","San Francisco","37.79943","-122.478181","World War II; Triangle"
+"GG97","1+",,"1994-04-29","Carpobrotus edulis","Brian Mattos;  Jake Sigg","Presidio Natural Resources","1994-04-29","San Francisco","37.802427","-122.463199","Crissy Bluffs; East Crissy Bluffs"
+"GG89","1+",,"1994-04-29","Carpobrotus edulis","Brian Mattos;  Jake Sigg","Presidio Natural Resources","1994-04-29","San Francisco","37.804945","-122.45791","Crissy Field"
+"GG695","1+",,"1994-01-01","Carpobrotus edulis","Tom Celebrezze;  Eva Gnotkopp","Presidio Natural Resources","1994-01-01","San Francisco","37.7889","-122.46889","Golf Course West"
+"GG573","1+",,"1994-01-01","Carpobrotus edulis","Mike Vasey","Presidio Natural Resources","1994-01-01","San Francisco","37.79094","-122.474174","Presidio Hills; Wetland"
+"GG572","1+",,"1994-01-01","Carpobrotus edulis","Mike Vasey","Presidio Natural Resources","1994-01-01","San Francisco","37.790036","-122.473533","Presidio Hills; Lessingia Recovery"
+"GG570","1+",,"1994-01-01","Carpobrotus edulis","Mike Vasey","Presidio Natural Resources","1994-01-01","San Francisco","37.791392","-122.47441","Presidio Hills; Scrub Recovery"
+"GG568","1+",,"1994-01-01","Carpobrotus edulis","Mike Vasey","Presidio Natural Resources","1994-01-01","San Francisco","37.790214","-122.473135","Presidio Hills; Oak Woodland"
+"GG566","1+",,"1994-01-01","Carpobrotus edulis","Mike Vasey","Presidio Natural Resources","1994-01-01","San Francisco","37.790847","-122.473403","Presidio Hills; East Scrub"
+"GG562","1+",,"1994-01-01","Carpobrotus edulis","Mike Vasey;  Isabelle DeGeoffrey","Presidio Natural Resources","1994-01-01","San Francisco","37.790681","-122.456856","Southeast Dunes; West Pacific Natural Areas"
+"GG553","1+",,"1994-01-01","Carpobrotus edulis","Mike Vasey;  Isabelle DeGeoffrey","Presidio Natural Resources","1994-01-01","San Francisco","37.788087","-122.47918","Lobos Creek Valley"
+"GG717","1+",,"2009-05-01","Carpobrotus edulis","Vanessa Stevens","Presidio Natural Resources","2009-05-01","San Francisco","37.79094","-122.474174","Presidio Hills; Wetland"
+"GG715","1+",,"2009-05-01","Carpobrotus edulis","Vanessa Stevens","Presidio Natural Resources","2009-05-01","San Francisco","37.791392","-122.47441","Presidio Hills; Scrub Recovery"
+"GG512","1+",,"1998-04-01","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","1998-04-01","San Francisco","37.797723","-122.479351","North Baker Beach; Yerba Buena Dunes"
+"GG480","1+",,"1997-04-01","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","1997-04-01","San Francisco","37.802669","-122.478749","Coastal Bluffs"
+"GG440","1+",,"2009-04-16","Carpobrotus edulis","Michael Chasse;  Laura Chantri;  Ricky Medrano","Presidio Natural Resources","2009-04-16","San Francisco","37.794218","-122.481579","Baker Beach; Battery Chamberlin"
+"GG438","1+",,"2009-04-16","Carpobrotus edulis","Michael Chasse;  Laura Chantri;  Ricky Medrano","Presidio Natural Resources","2009-04-16","San Francisco","37.795292","-122.479879","Southwest Dunes; Silene Area"
+"GG67","1+",,"2008-07-18","Carpobrotus edulis","Brett Stevenson;  Andy Kleinhesselink","Presidio Natural Resources","2008-07-18","San Francisco","37.794107","-122.477014","Southwest Dunes; Wherry Dunes"
+"GG689","1+",,"2002-05-29","Carpobrotus edulis","Tim Doherty;  Marie Fontaine;  Emily Magnaghi","Presidio Natural Resources","2002-05-29","San Francisco","37.796528","-122.480268","North Baker Beach"
+"GG22","1+",,"2002-05-02","Carpobrotus edulis","Andrew Baker","Presidio Natural Resources","2002-05-02","San Francisco","37.788087","-122.47918","Lobos Creek Valley"
+"GG23","1+",,"2002-05-02","Carpobrotus edulis","Andrew Baker","Presidio Natural Resources","2002-05-02","San Francisco","37.790143","-122.477417","Lobos Creek Valley; Field Office Dunes"
+"GG485","1+",,"1996-03-01","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","1996-03-01","San Francisco","37.790847","-122.473403","Presidio Hills; East Scrub"
+"GG510","1+",,"1996-05-01","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","1996-05-01","San Francisco","37.79094","-122.474174","Presidio Hills; Wetland"
+"GG516","1+",,"2002-04-24","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","2002-04-24","San Francisco","37.791849","-122.47594","Southwest Dunes; Wherry Corridor"
+"GG357","1+",,"2002-06-12","Carpobrotus edulis","Marie Fontaine;  Emily Magnaghi","Presidio Natural Resources","2002-06-12","San Francisco","37.795358","-122.474552","Rob Hill; Top of Battery"
+"GG358","1+",,"2002-06-12","Carpobrotus edulis","Marie Fontaine;  Emily Magnaghi","Presidio Natural Resources","2002-06-12","San Francisco","37.795719","-122.47464","Rob Hill; Lessingia Site"
+"GG281","1+",,"2002-06-19","Carpobrotus edulis","Ling He;  Sahrye Cohen","Presidio Natural Resources","2002-06-19","San Francisco","37.802427","-122.463199","Crissy Bluffs; East Crissy Bluffs"
+"GG541","1+",,"2002-01-19","Carpobrotus edulis","Mike Perlmutter","Presidio Natural Resources","2002-01-19","San Francisco","37.807089","-122.477718","Coastal Bluffs; North Bluffs"
+"GG494","1+",,"1997-04-01","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","1997-04-01","San Francisco","37.791392","-122.47441","Presidio Hills; Scrub Recovery"
+"GG504","1+",,"1996-01-01","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","1996-01-01","San Francisco","37.790036","-122.473533","Presidio Hills; Lessingia Recovery"
+"GG280","1+",,"2002-07-11","Carpobrotus edulis","Ling He;  Sahrye Cohen","Presidio Natural Resources","2002-07-11","San Francisco","37.803714","-122.46873","West Crissy Bluffs; West Crissy Bluffs"
+"GG20","1+",,"2002-07-14","Carpobrotus edulis","Andrew Baker;  Jen Adler","Presidio Natural Resources","2002-07-14","San Francisco","37.788087","-122.47918","Lobos Creek Valley"
+"GG282","1+",,"2002-07-16","Carpobrotus edulis","Ling He;  Steven Hernandez","Presidio Natural Resources","2002-07-16","San Francisco","37.804945","-122.45791","Crissy Field"
+"GG344","1+",,"2002-07-23","Carpobrotus edulis","Marie Fontaine;  Emily Magnaghi","Presidio Natural Resources","2002-07-23","San Francisco","37.79943","-122.478181","World War II; Triangle"
+"GG478","1+",,"2002-07-23","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","2002-07-23","San Francisco","37.793553","-122.473929","Presidio Hills; Quail Commons"
+"GG482","1+",,"2002-07-25","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","2002-07-25","San Francisco","37.793259","-122.458813","Inspiration Point"
+"GG284","1+",,"2002-07-30","Carpobrotus edulis","Ling He","Presidio Natural Resources","2002-07-30","San Francisco","37.803714","-122.46873","West Crissy Bluffs; West Crissy Bluffs"
+"GG539","1+",,"2002-03-19","Carpobrotus edulis","Mike Perlmutter","Presidio Natural Resources","2002-03-19","San Francisco","37.802669","-122.478749","Coastal Bluffs"
+"GG180","1+",,"2004-07-13","Carpobrotus edulis","Ericka Witcher","Presidio Natural Resources","2004-07-13","San Francisco","37.797625","-122.477489","World War II; Sunset Scrub"
+"GG627","1+",,"2007-03-28","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-03-28","San Francisco","37.79943","-122.478181","World War II; Triangle"
+"GG466","1+",,"2007-03-29","Carpobrotus edulis","Michael Chasse;  Rachel Alford;  Alyssa Babin","Presidio Natural Resources","2007-03-29","San Francisco","37.791162","-122.483634","Baker Beach; Foredune Zero"
+"GG467","1+",,"2007-03-29","Carpobrotus edulis","Michael Chasse;  Rachel Alford;  Alyssa Babin","Presidio Natural Resources","2007-03-29","San Francisco","37.7918","-122.483107","Baker Beach"
+"GG636","1+",,"2007-03-29","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-03-29","San Francisco","37.803714","-122.46873","West Crissy Bluffs; West Crissy Bluffs"
+"GG75","1+",,"2007-03-30","Carpobrotus edulis","Brett Stevenson","Presidio Natural Resources","2007-03-30","San Francisco","37.793768","-122.477743","Southwest Dunes"
+"GG628","1+",,"2007-04-13","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-04-13","San Francisco","37.793553","-122.473929","Presidio Hills; Quail Commons"
+"GG633","1+",,"2007-03-13","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-03-13","San Francisco","37.791101","-122.473969","Presidio Hills"
+"GG631","1+",,"2007-05-10","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-05-10","San Francisco","37.800291","-122.471132","Dragonfly Creek"
+"GG626","1+",,"2007-05-01","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-05-01","San Francisco","37.78817","-122.479645","Lobos Creek Valley; New Dunes"
+"GG640","1+",,"2005-05-01","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2005-05-01","San Francisco","37.78798","-122.477296","Lobos Creek Valley; Remnant Dunes"
+"GG639","1+",,"2007-05-23","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-05-23","San Francisco","37.794218","-122.481579","Baker Beach; Battery Chamberlin"
+"GG641","1+",,"2007-05-23","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-05-23","San Francisco","37.792335","-122.483841","Baker Beach; Foredunes"
+"GG634","1+",,"2007-05-24","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-05-24","San Francisco","37.793768","-122.477743","Southwest Dunes"
+"GG629","1+",,"2007-05-23","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-05-23","San Francisco","37.791971","-122.482981","Baker Beach; Picnic Area"
+"GG632","1+",,"2007-05-22","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-05-22","San Francisco","37.788087","-122.47918","Lobos Creek Valley"
+"GG630","1+",,"2007-06-08","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-06-08","San Francisco","37.795292","-122.479879","Southwest Dunes; Silene Area"
+"GG638","1+",,"2007-06-14","Carpobrotus edulis","Sandee Hufana","Presidio Natural Resources","2007-06-14","San Francisco","37.790264","-122.484367","Baker Beach; Water Treatment Plant"
+"GG519","1+",,"2008-10-09","Carpobrotus edulis","Michael Chasse","Presidio Natural Resources","2008-10-09","San Francisco","37.802427","-122.463199","Crissy Bluffs; East Crissy Bluffs"
+"GG41","1+",,"2008-05-13","Carpobrotus edulis","Andy Kleinhesselink","Presidio Natural Resources","2008-05-13","San Francisco","37.797625","-122.477489","World War II; Sunset Scrub"
+"GG13","1+",,"2008-06-19","Carpobrotus edulis","Alyssa Babin;  Brett Stevenson","Presidio Natural Resources","2008-06-19","San Francisco","37.790847","-122.473403","Presidio Hills; East Scrub"
+"casp47","1+",,"1978-01-01","Carpobrotus edulis","Trumbley, 1978","California State Parks","1978-01-01","San Mateo","37.56442","-122.51354","Gray Whale Cove SB"
+"casp93","1+",,"1978-01-01","Carpobrotus edulis","Trumbley, 1978","California State Parks","1978-01-01","San Mateo","37.56298","-122.50149","Montara SB"
+"casp9","1+",,"1980-01-01","Carpobrotus edulis","Ripley, 1980","California State Parks","1980-01-01","Marin","37.86183","-122.43099","Angel Island SP"
+"ce607","1+",,"2012-04-03","Carpobrotus edulis","Michael Perlmutter, Peter Baye","Bay Area Early Detection Network","2012-04-03","San Francisco","37.745691","-122.375645","Pier 94, San Francisco - Extant flora Pier 94 is just south of, and adjacent to the Islais Creek Inlet, on land owned by the Port of San Francisco. Pier 94 is just north of the container shipping facility at Pier 96. Golden Gate Audubon Society is assisting with site restoration & management."
+"ce654","1+",,"2008-05-16","Carpobrotus edulis","Michael Perlmutter","Bay Area Early Detection Network","2008-05-16","Marin","37.890896","-122.501302","Aramburu Island, Richardson Bay, Marin County"
+"ce655","1+",,"2008-05-16","Carpobrotus edulis","Michael Perlmutter","Bay Area Early Detection Network","2008-05-16","Marin","37.894045","-122.503394","Pickleweed, Richardson Bay, Marin County"
+"ce703","1+",,"2012-04-03","Carpobrotus edulis","Michael Perlmutter, Peter Baye","Bay Area Early Detection Network","2012-04-03","San Francisco","37.745691","-122.375645","Pier 94, San Francisco - Non-native species Pier 94 is just south of, and adjacent to the Islais Creek Inlet, on land owned by the Port of San Francisco. Pier 94 is just north of the container shipping facility at Pier 96. Golden Gate Audubon Society is assisting with site restoration & management."
+"ce704","1+",,"2012-02-07","Carpobrotus edulis","Ramona Robison","California State Parks","2012-02-07","Marin","38.144991","-122.877658","Marconi Conference Center State Historic Park Located along trails and in landscaping of the Marconi Conference Center."
+"ce747","1+",,"2013-03-20","Carpobrotus edulis","Michael Chasse","National Park Service","2013-03-20","San Francisco","37.783807","-122.502064","Veterans Trail, GGNRA Area intersected by a social trail between the Legion of Honor Museum and the V.A. Hospital."
+"ce873","1+",,"2013-07-22","Carpobrotus edulis","Toni Corelli","Santa Clara Valley Chapter CNPS","2013-07-22","San Mateo","37.417223","-122.433099","Cowell-Purisima Trail California Coastal Trail System, San Mateo County"
+"ce881","1+",,"2013-04-01","Carpobrotus edulis","Toni Corelli","State Park Volunteer","2013-04-01","San Mateo","37.421813","-122.434569","Cowell Ranch State Beach State Park, San Mateo County"
+"ce882","1+",,"2013-01-05","Carpobrotus edulis","Toni Corelli","CNPS Santa Clara Valley Chapter","2013-01-05","San Mateo","37.522413","-122.516677","Fitzgerald Marine Reserve San Mateo County"
+"ce883","1+",,"2013-01-05","Carpobrotus edulis","Toni Corelli","CNPS Santa Clara Valley Chapter","2013-01-05","San Mateo","37.510523","-122.50421","Pillar Point Bluff Pillar Point Bluff north of Pillar Point Harbor. Jean Lauer Trail wanders the windswept heights of Pillar Point Bluff, San Mateo County"
+"ce874","1+",,"2013-04-22","Carpobrotus edulis","Toni Corelli","State Park Volunteer","2013-04-22","San Mateo","37.230451","-122.413058","Bean Hollow State Park"
+"ce884","1+",,"2013-05-17","Carpobrotus edulis","Toni Corelli","State Park Volunteer","2013-05-17","San Mateo","37.120281","-122.3283","Ano Nuevo State Park"
+"ce886","1+",,"2013-04-20","Carpobrotus edulis","Toni Corelli","San Jose State Herbarium","2013-04-20","San Mateo","37.471126","-122.446618","Half Moon Bay State Beach San Mateo County"
+"ce890","1+",,"2013-05-11","Carpobrotus edulis","Toni Corelli","State Park Volunteer","2013-05-11","San Mateo","37.559878","-122.509918","Montara State Beach/McNee Ranch State Park Montara Beach and west slopes of Montara Mountain"
+"ce891","1+",,"2013-05-25","Carpobrotus edulis","Toni Corelli","CNPS Santa Clara Valley Chapter","2013-05-25","San Mateo","37.61732","-122.494468","Mori Point San Mateo County"
+"ce892","1+",,"2009-06-13","Carpobrotus edulis","Toni Corelli","San Jose State Herbarium","2009-06-13","San Mateo","37.596542","-122.505111","Pacifica State Beach Dunes and wetland in Pacifica, California"
+"ce898","1+",,"2013-06-14","Carpobrotus edulis","Toni Corelli","State Park Volunteer","2013-06-14","San Mateo","37.181962","-122.394175","Pigeon Point Light Station Includes area around Lighthouse and beach south and north"
+"ce899","1+",,"2010-11-30","Carpobrotus edulis","Toni Corelli","CNPS Santa Clara Valley Chapter","2010-11-30","San Mateo","37.502882","-122.478332","Pillar Point Harbor County of San Mateo"
+"ce900","1+",,"2012-07-10","Carpobrotus edulis","Toni Corelli","State Park Volunteer","2012-07-10","San Mateo","37.287711","-122.406234","Pomponio State Beach San Mateo County"
+"ce902","1+",,"2010-07-12","Carpobrotus edulis","Toni Corelli","State Park Volunteer","2010-07-12","San Mateo","37.324748","-122.402458","San Gregorio State Beach San Mateo County"
+"ce903","1+",,"2009-05-19","Carpobrotus edulis","Toni Corelli","State Park Volunteer","2009-05-19","San Mateo","37.696317","-122.497751","Thorton State Beach"
+"ce904","1+",,"2009-09-23","Carpobrotus edulis","Toni Corelli","CNPS Santa Clara Valley Chapter","2009-09-23","San Mateo","37.357332","-122.399883","Tunitas Creek Open Space Preserve"
+"ce930","1+",,"2013-06-22","Carpobrotus edulis","Ramona Robison","California State Parks","2013-06-22","Marin","38.108289","-122.846288","Tomales Bay State Park Millerton Point, loop around parking area and marsh to the south east."
+"ce965","1+",,"2014-04-25","Carpobrotus edulis","Toni Corelli","Botanist","2014-04-25","San Mateo","37.579763","-122.516527","Devil's Slide Trail North of Montara and south of Pacifica. Old Highway 1 before new tunnel"
+"ce999","1+",,"2015-06-16","Carpobrotus edulis","Tim Hyland","California State Parks","2015-06-16","Marin","38.1089","-122.849598","Millerton Pt. State Park ADA Trail Reroute"
+"gr13882","1+",,"1989-10-21","Mesembryanthemum edule","Ken Himes","Santa Clara Valley CNPS","1989-10-21","San Mateo","37.2638","-122.404","Pescadero Marsh"
+"wb1184-154","1+",,"2013-03-13","carpobrotus edulis","treilly","California State Parks WIMS","2013-03-13","San Mateo","37.14749388","-122.35481402","S Franklin pt"
